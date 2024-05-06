@@ -10,13 +10,11 @@
      <common:class level="0">Persons</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">Joint Research Centre, European Commission, Ispra (ITALY)</contactAddress>
+   <contactAddress xml:lang="en">Joint Research Centre, European Commission, Ispra (ITALY)</contactAddress>
    <telephone>(00) 39 0332 78 6300</telephone>
    <telefax/>
    <email>ec-eplca@ec.europa.eu</email>
    <WWWAddress>www.eplca.jrc.europa.eu</WWWAddress>
-   <centralContactPoint xml:lang=""/>
-   <centralContactPoint xml:lang="en"/>
    <contactDescriptionOrComment xml:lang="en">Antonio Valente, Susanna Andreasi Bassi, Fulvio Ardente, Edward Diaconu</contactDescriptionOrComment>
 </dataSetInformation>
 </contactInformation>
@@ -24,7 +22,7 @@
   <dataEntryBy>
    <common:timeStamp>2022-06-02T15:54:30.218+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

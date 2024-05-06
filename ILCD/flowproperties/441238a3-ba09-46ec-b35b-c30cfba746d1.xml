@@ -21,7 +21,7 @@
    <complianceDeclarations>
      <compliance>
       <common:referenceToComplianceSystem refObjectId="88d4f8d9-60f9-43d1-9ea3-329c10d7d727" type="source data set" uri="../sources/88d4f8d9-60f9-43d1-9ea3-329c10d7d727.xml">
-        <common:shortDescription>ILCD Data Network compliance</common:shortDescription>
+        <common:shortDescription xml:lang="en">ILCD Data Network compliance</common:shortDescription>
 </common:referenceToComplianceSystem>
       <common:approvalOfOverallCompliance>Fully compliant</common:approvalOfOverallCompliance>
 </compliance>
@@ -31,7 +31,7 @@
    <dataEntryBy>
      <common:timeStamp>2008-12-05T18:14:53.423+01:00</common:timeStamp>
      <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-      <common:shortDescription>ILCD format</common:shortDescription>
+      <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
    <publicationAndOwnership>

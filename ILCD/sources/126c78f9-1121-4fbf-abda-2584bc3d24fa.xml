@@ -18,7 +18,7 @@
   <dataEntryBy>
    <common:timeStamp>2017-02-02T10:26:17+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

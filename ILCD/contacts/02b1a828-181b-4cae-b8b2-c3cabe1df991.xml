@@ -10,10 +10,9 @@
      <common:class level="0">Group of organisations, project</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">Coordination Centre for Effects (CCE) P.O.Box 303 NL-3720 AH Bilthoven, The Netherlands</contactAddress>
+   <contactAddress xml:lang="en">Coordination Centre for Effects (CCE) P.O.Box 303 NL-3720 AH Bilthoven, The Netherlands</contactAddress>
    <email>max.posch@mnp.nl; jyri.seppala@ymparisto.fi</email>
    <WWWAddress>http://www.pbl.nl/en/themasites/cce/index.html; http://www.ymparisto.fi/default.asp?node=5297&amp;lan=EN</WWWAddress>
-   <centralContactPoint xml:lang="">max.posch@mnp.nl</centralContactPoint>
    <centralContactPoint xml:lang="en">see http://www.pbl.nl/en/themasites/cce/index.html and http://www.ymparisto.fi/default.asp?node=5297&amp;lan=EN</centralContactPoint>
    <contactDescriptionOrComment xml:lang="en">Joint ownership.</contactDescriptionOrComment>
 </dataSetInformation>
@@ -22,7 +21,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T15:53:55.312+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

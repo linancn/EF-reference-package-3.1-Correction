@@ -12,7 +12,7 @@
             <common:class classId="String" level="1">Governmental organisations</common:class>
          </common:classification>
       </classificationInformation>
-      <contactAddress>Avenue d’Auderghem 19 – 9,B-1040 Brussels/Belgium</contactAddress>
+      <contactAddress xml:lang="en">Avenue d’Auderghem 19 – 9,B-1040 Brussels/Belgium</contactAddress>
     </dataSetInformation>
   </contactInformation>
   <administrativeInformation>

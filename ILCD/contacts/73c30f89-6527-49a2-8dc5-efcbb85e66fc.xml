@@ -11,13 +11,11 @@
      <common:class level="1">Governmental organisations</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">Technical University of Denmark Department of Management Engineering Produktionstorvet Building 426 2800 Kgs. Lyngby DENMARK</contactAddress>
-   <contactAddress xml:lang="en">Prof. Michael Hauschild QSA section Danish Technical University Denmark</contactAddress>
+   <contactAddress xml:lang="en">Prof. Michael Hauschild QSA section Danish Technical University Denmark,Technical University of Denmark Department of Management Engineering Produktionstorvet Building 426 2800 Kgs. Lyngby DENMARK</contactAddress>
    <telephone>+45 45254664</telephone>
    <telefax>+45 45933435</telefax>
    <email>mic@man.dtu.dk</email>
    <WWWAddress>http://www.qsa.man.dtu.dk/English.aspx</WWWAddress>
-   <centralContactPoint xml:lang="">mic@man.dtu.dk</centralContactPoint>
    <centralContactPoint xml:lang="en">see http://www.dtu.dk</centralContactPoint>
 </dataSetInformation>
 </contactInformation>
@@ -25,7 +23,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T16:14:26.078+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

@@ -10,11 +10,10 @@
      <common:class level="0">Group of organisations, project</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">15, rue de Milan / 75441 Paris Cedex 09 / France</contactAddress>
+   <contactAddress xml:lang="en">15, rue de Milan / 75441 Paris Cedex 09 / France</contactAddress>
    <telephone>+33-1-44-37-76-28</telephone>
    <email>Sonia.valdivia@unep.fr</email>
    <WWWAddress>http://lcinitiative.unep.fr</WWWAddress>
-   <centralContactPoint xml:lang="">Sonia.valdivia@unep.fr</centralContactPoint>
    <centralContactPoint xml:lang="en">see http://lcinitiative.unep.fr</centralContactPoint>
    <contactDescriptionOrComment xml:lang="en">Sonia Valdivia, Associate Programme Officer, is the contact person of the Secretariat of the UNEP/SETAC Life Cycle Initiative, SCP
     Branch, UNEP DTIE Paris</contactDescriptionOrComment>
@@ -24,7 +23,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T15:47:38.390+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

@@ -10,12 +10,11 @@
      <common:class level="0">Organisations</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">World Meteorological Organization / 7bis, avenue de la Paix / Case postale 2300 / CH-1211 Geneva 2 / Switzerland</contactAddress>
+   <contactAddress xml:lang="en">World Meteorological Organization / 7bis, avenue de la Paix / Case postale 2300 / CH-1211 Geneva 2 / Switzerland</contactAddress>
    <telephone>+ 41(0) 22 730 81 11</telephone>
    <telefax>+ 41(0) 22 730 81 81</telefax>
    <email>wmo@wmo.int</email>
    <WWWAddress>www.wmo.int/</WWWAddress>
-   <centralContactPoint xml:lang="">wmo@wmo.int</centralContactPoint>
    <centralContactPoint xml:lang="en">see www.wmo.int/</centralContactPoint>
 </dataSetInformation>
 </contactInformation>
@@ -23,7 +22,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T16:23:50.625+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

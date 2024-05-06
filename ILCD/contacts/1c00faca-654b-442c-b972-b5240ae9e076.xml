@@ -10,20 +10,18 @@
      <common:class level="0">Persons</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">Joint Research Centre, European Commission, Ispra (ITALY)</contactAddress>
+   <contactAddress xml:lang="en">Joint Research Centre, European Commission, Ispra (ITALY)</contactAddress>
    <telephone>(00) 39 0332 78 5821</telephone>
    <telefax/>
    <email>valentina.castellani@ec.europa.eu</email>
    <WWWAddress>www.eplca.jrc.europa.eu</WWWAddress>
-   <centralContactPoint xml:lang=""/>
-   <centralContactPoint xml:lang="en"/>
 </dataSetInformation>
 </contactInformation>
  <administrativeInformation>
   <dataEntryBy>
    <common:timeStamp>2017-02-02T15:54:30.218+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

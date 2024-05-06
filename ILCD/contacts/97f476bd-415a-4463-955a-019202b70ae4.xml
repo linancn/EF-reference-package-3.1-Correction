@@ -11,11 +11,9 @@
      <common:class level="1">Governmental organisations</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">European Commission - Joint Research Centre / Internal &amp; external communication Unit / SDME 10/78 / B-1049 Brussels / Belgium</contactAddress>
-   <contactAddress xml:lang="en">European Commission, JRC, Brussels, Belgium</contactAddress>
+   <contactAddress xml:lang="en">European Commission - Joint Research Centre / Internal &amp; external communication Unit / SDME 10/78 / B-1049 Brussels / Belgium</contactAddress>
    <email>jrc-info@ec.europa.eu</email>
    <WWWAddress>www.jrc.ec.europa.eu/</WWWAddress>
-   <centralContactPoint xml:lang="">jrc-info@ec.europa.eu</centralContactPoint>
    <centralContactPoint xml:lang="en">see www.jrc.ec.europa.eu/</centralContactPoint>
    <contactDescriptionOrComment xml:lang="en">For work related to LCA and the ILCD, please contact: European Commission, JRC, IES, H08, 21027 Ispra (VA), Italy
     lca@jrc.ec.europa.eu FAX +39.0332.786645</contactDescriptionOrComment>
@@ -25,7 +23,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T15:42:24.609+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

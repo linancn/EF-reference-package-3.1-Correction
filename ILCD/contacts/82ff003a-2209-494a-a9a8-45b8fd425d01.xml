@@ -12,8 +12,7 @@
 </classificationInformation>
    <email>goedkoop@pre.nl</email>
    <WWWAddress>www.lcia-recipe.net/</WWWAddress>
-   <centralContactPoint xml:lang="">goedkoop@pre.nl</centralContactPoint>
-   <centralContactPoint xml:lang="en">see www.lcia-recipe.net/</centralContactPoint>
+   <centralContactPoint xml:lang="en">goedkoop@pre.nl</centralContactPoint>
    <contactDescriptionOrComment xml:lang="en">This group includes the persons (Jan. 2009): Mark Goedkoop, Reinout Heijungs, Mark Huijbregts, An De Schryver, Jaap Struijs,
     Rosalie van Zelm</contactDescriptionOrComment>
 </dataSetInformation>
@@ -22,7 +21,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T16:05:05.875+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

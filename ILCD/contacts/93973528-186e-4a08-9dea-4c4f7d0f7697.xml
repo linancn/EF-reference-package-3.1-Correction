@@ -10,12 +10,11 @@
      <common:class level="0">Persons</common:class>
 </common:classification>
 </classificationInformation>
-   <contactAddress xml:lang="">National Institute for Public Health and the Environment / Postbus 1 (postbak 9) / 3720 BA BILTHOVEN / The Netherlands</contactAddress>
+   <contactAddress xml:lang="en">National Institute for Public Health and the Environment / Postbus 1 (postbak 9) / 3720 BA BILTHOVEN / The Netherlands</contactAddress>
    <telephone>+31 30 2742001</telephone>
    <telefax>+31 30 2744413</telefax>
    <email>Jaap.Struijs@rivm.nl</email>
    <WWWAddress>http://www.rivm.nl/</WWWAddress>
-   <centralContactPoint xml:lang="">Jaap.Struijs@rivm.nl</centralContactPoint>
    <centralContactPoint xml:lang="en">see http://www.rivm.nl/</centralContactPoint>
    <referenceToContact refObjectId="e1535cd4-1422-4459-9f52-500c6a868c67" type="contact data set" uri="./e1535cd4-1422-4459-9f52-500c6a868c67.xml">
     <common:shortDescription xml:lang="en">RIVM</common:shortDescription>
@@ -29,7 +28,7 @@
   <dataEntryBy>
    <common:timeStamp>2012-01-04T15:50:17.984+01:00</common:timeStamp>
    <common:referenceToDataSetFormat refObjectId="a97a0155-0234-4b87-b4ce-a45da52f2a40" type="source data set" uri="../sources/a97a0155-0234-4b87-b4ce-a45da52f2a40.xml">
-    <common:shortDescription>ILCD format</common:shortDescription>
+    <common:shortDescription xml:lang="en">ILCD format</common:shortDescription>
 </common:referenceToDataSetFormat>
 </dataEntryBy>
   <publicationAndOwnership>

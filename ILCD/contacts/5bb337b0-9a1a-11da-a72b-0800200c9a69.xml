@@ -12,7 +12,7 @@
           <common:class level="1" classId="3717cb7e-95e7-4cd6-b188-73abe9076199">Working groups</common:class>
         </common:classification>
       </classificationInformation>
-      <contactAddress>JRC-IES, TP 460, Via E. Fermi 1, 21027 Ispra (VA), Italy</contactAddress>
+      <contactAddress xml:lang="en">JRC-IES, TP 460, Via E. Fermi 1, 21027 Ispra (VA), Italy</contactAddress>
       <telefax>+39 0332 78 5601</telefax>
       <email>LCA@JRC.it</email>
       <WWWAddress>http://lca.jrc.ec.europa.eu</WWWAddress>

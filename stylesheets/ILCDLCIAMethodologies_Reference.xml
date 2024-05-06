@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ILCDLCIAMethodologies xmlns="http://lca.jrc.it/ILCD/LCIAMethodologies" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://lca.jrc.it/ILCD/LCIAMethodologies ../schemas/ILCD_LCIAMethodologies_NA.xsd">
+  xsi:schemaLocation="http://lca.jrc.it/ILCD/LCIAMethodologies ../schemas/ILCD_LCIAMethodologies.xsd">
   <methodology name="CML 2002"/>
   <methodology name="Eco-indicator 99"/>
   <methodology name="EDIP97"/>
