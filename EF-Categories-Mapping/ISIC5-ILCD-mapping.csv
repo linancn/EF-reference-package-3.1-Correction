@@ -1,0 +1,831 @@
+﻿ISIC5-code,ISIC5-title,ISIC5-title-ZH,ilcd_code,ilcd_category
+A,"Agriculture, forestry and fishing",农业、林业及渔业,2.11,Materials production: Food and renewable raw materials
+01,"Crop and animal production, hunting and related service activities",作物和牲畜生产、狩猎和相关服务活动,2.11,Materials production: Food and renewable raw materials
+011,Growing of non-perennial crops,非多年生作物的种植,2.11,Materials production: Food and renewable raw materials
+0111,"Growing of cereals (except rice), leguminous crops and oil seeds",谷类(水稻除外)、豆类和油籽类作物的种植,2.11,Materials production: Food and renewable raw materials
+0112,Growing of rice,水稻的种植,2.11,Materials production: Food and renewable raw materials
+0113,"Growing of vegetables and melons, roots and tubers",蔬菜、瓜类、根类、茎类的种植,2.11,Materials production: Food and renewable raw materials
+0114,Growing of sugar cane,甘蔗的种植,2.11,Materials production: Food and renewable raw materials
+0115,Growing of tobacco,烟草的种植,2.11,Materials production: Food and renewable raw materials
+0116,Growing of fibre crops,纤维作物的种植,2.11,Materials production: Food and renewable raw materials
+0119,Growing of other non-perennial crops,其他非多年生作物的种植,2.11,Materials production: Food and renewable raw materials
+012,Growing of perennial crops,多年生作物的种植,2.11,Materials production: Food and renewable raw materials
+0121,Growing of grapes,葡萄的种植,2.11,Materials production: Food and renewable raw materials
+0122,Growing of tropical and subtropical fruits,热带和亚热带水果的种植,2.11,Materials production: Food and renewable raw materials
+0123,Growing of citrus fruits,柑橘属水果的种植,2.11,Materials production: Food and renewable raw materials
+0124,Growing of pome fruits and stone fruits,仁果类和核果类的种植,2.11,Materials production: Food and renewable raw materials
+0125,Growing of other tree and bush fruits and nuts,其他树木、灌木水果及坚果类的种植,2.11,Materials production: Food and renewable raw materials
+0126,Growing of oleaginous fruits,含油水果的种植,2.11,Materials production: Food and renewable raw materials
+0127,Growing of beverage crops,饮料作物的种植,2.11,Materials production: Food and renewable raw materials
+0128,"Growing of spices, aromatic, drug and pharmaceutical crops",调味料、香料及药用作物的种植,2.11,Materials production: Food and renewable raw materials
+0129,Growing of other perennial crops,其他多年生作物的种植,2.11,Materials production: Food and renewable raw materials
+013,Plant propagation,植物繁殖,2.10,Materials production: Agricultural production means
+0130,Plant propagation,植物繁殖,2.10,Materials production: Agricultural production means
+014,Animal production,牲畜生产,2.11,Materials production: Food and renewable raw materials
+0141,Raising of cattle and buffaloes,奶牛和水牛的饲养,2.11,Materials production: Food and renewable raw materials
+0142,Raising of horses and other equines,马和其他马类动物的饲养,2.11,Materials production: Food and renewable raw materials
+0143,Raising of camels and camelids,骆驼和骆驼科动物的饲养,2.10,Materials production: Agricultural production means
+0144,Raising of sheep and goats,绵羊和山羊的饲养,2.11,Materials production: Food and renewable raw materials
+0145,Raising of swine and pigs,猪的饲养,2.11,Materials production: Food and renewable raw materials
+0146,Raising of poultry,家禽的饲养,2.11,Materials production: Food and renewable raw materials
+0149,Raising of other animals,其他动物的饲养,2.11,Materials production: Food and renewable raw materials
+015,Mixed farming,农牧混合,2.11,Materials production: Food and renewable raw materials
+0150,Mixed farming,农牧混合,2.10,Materials production: Agricultural production means
+016,Support activities to agriculture and post-harvest crop activities,农业及收获后的辅助活动,2.10,Materials production: Agricultural production means
+0161,Support activities for crop production,作物生产的辅助活动,2.10,Materials production: Agricultural production means
+0162,Support activities for animal production,牲畜生产的辅助活动,2.10,Materials production: Agricultural production means
+0163,Post-harvest crop activities,作物收获后的辅助活动,2.10,Materials production: Agricultural production means
+0164,Seed processing for propagation,繁殖用种子的加工,2.10,Materials production: Agricultural production means
+017,"Hunting, trapping and related service activities",狩猎、捕捉及相关服务活动,2.11,Materials production: Food and renewable raw materials
+0170,"Hunting, trapping and related service activities",狩猎、捕捉及相关服务活动,2.11,Materials production: Food and renewable raw materials
+02,Forestry and logging,林业与伐木业,2.11,Materials production: Food and renewable raw materials
+021,Silviculture and other forestry activities,造林及其他林业活动,2.12,Materials production: Wood
+0210,Silviculture and other forestry activities,造林及其他林业活动,2.12,Materials production: Wood
+022,Logging,伐木业,2.12,Materials production: Wood
+0220,Logging,伐木业,2.12,Materials production: Wood
+023,Gathering of non-wood forest products,非木材林业产品的采集,2.11,Materials production: Food and renewable raw materials
+0230,Gathering of non-wood forest products,非木材林业产品的采集,2.11,Materials production: Food and renewable raw materials
+024,Support services to forestry,林业辅助服务,6.16,Other Services: Other services
+0240,Support services to forestry,林业辅助服务,6.16,Other Services: Other services
+03,Fishing and aquaculture,渔业与水产业,2.11,Materials production: Food and renewable raw materials
+031,Fishing,渔业,2.11,Materials production: Food and renewable raw materials
+0311,Marine fishing,海洋渔业,2.11,Materials production: Food and renewable raw materials
+0312,Freshwater fishing,淡水渔业,2.11,Materials production: Food and renewable raw materials
+032,Aquaculture,水产业,2.11,Materials production: Food and renewable raw materials
+0321,Marine aquaculture,海水养殖,2.11,Materials production: Food and renewable raw materials
+0322,Freshwater aquaculture,淡水养殖,2.11,Materials production: Food and renewable raw materials
+033,Support activities for fishing and aquaculture,渔业和水产养殖的支持活动,6.16,Other Services: Other services
+0330,Support activities for fishing and aquaculture,渔业和水产养殖的支持活动,6.16,Other Services: Other services
+B,Mining and quarrying,采矿和采石,2.1,Materials production: Non-energetic raw materials
+05,Mining of coal and lignite,煤炭和褐煤的开采,1.5,Energy carriers and technologies: Hard coal based fuels
+051,Mining of hard coal,硬煤的开采,1.5,Energy carriers and technologies: Hard coal based fuels
+0510,Mining of hard coal,硬煤的开采,1.5,Energy carriers and technologies: Hard coal based fuels
+052,Mining of lignite,褐煤的开采,1.6,Energy carriers and technologies: Lignite based fuels
+0520,Mining of lignite,褐煤的开采,1.6,Energy carriers and technologies: Lignite based fuels
+06,Extraction of crude petroleum and natural gas,石油及天然气的开采,1.7,Energy carriers and technologies: Crude oil based fuels
+061,Extraction of crude petroleum,原油的开采,1.7,Energy carriers and technologies: Crude oil based fuels
+0610,Extraction of crude petroleum,原油的开采,1.7,Energy carriers and technologies: Crude oil based fuels
+062,Extraction of natural gas,天然气的开采,1.8,Energy carriers and technologies: Natural gas based fuels
+0620,Extraction of natural gas,天然气的开采,1.8,Energy carriers and technologies: Natural gas based fuels
+07,Mining of metal ores,金属矿的开采,2.2,Materials production: Metals and semimetals
+071,Mining of iron ores,铁矿的开采,2.2,Materials production: Metals and semimetals
+0710,Mining of iron ores,铁矿的开采,2.2,Materials production: Metals and semimetals
+072,Mining of non-ferrous metal ores,有色金属矿的开采,2.1,Materials production: Non-energetic raw materials
+0721,Mining of uranium and thorium ores,铀及钍矿的开采,1.9,Energy carriers and technologies: Nuclear fuels
+0729,Mining of other non-ferrous metal ores,其他有色金属矿的开采,2.2,Materials production: Metals and semimetals
+08,Other mining and quarrying,其他采矿和采石,1.1,Energy carriers and technologies: Energetic raw materials
+081,"Quarrying of stone, sand and clay",石、砂及粘土的采掘,2.1,Materials production: Non-energetic raw materials
+0810,"Quarrying of stone, sand and clay",石、砂及粘土的采掘,2.6,Materials production: Other mineralic materials
+089,Mining and quarrying n.e.c.,未另分类的采矿和采石,2.1,Materials production: Non-energetic raw materials
+0891,Mining of chemical and fertilizer minerals,化学矿物及肥料矿物的开采,2.1,Materials production: Non-energetic raw materials
+0892,Extraction of peat,泥炭的开采,1.1,Energy carriers and technologies: Energetic raw materials
+0893,Extraction of salt,采盐,2.1,Materials production: Non-energetic raw materials
+0899,Other mining and quarrying n.e.c.,未另分类的其他采矿和采石,2.1,Materials production: Non-energetic raw materials
+09,Mining support service activities,开采辅助服务活动,6.16,Other Services: Other services
+091,Support activities for petroleum and natural gas extraction,石油和天然气开采的辅助活动,1.8,Energy carriers and technologies: Natural gas based fuels
+0910,Support activities for petroleum and natural gas extraction,石油和天然气开采的辅助活动,1.7,Energy carriers and technologies: Crude oil based fuels
+099,Support activities for other mining and quarrying,其他采矿和采石的辅助活动,2.1,Materials production: Non-energetic raw materials
+0990,Support activities for other mining and quarrying,其他采矿和采石的辅助活动,2.1,Materials production: Non-energetic raw materials
+C,Manufacturing,制造业,3.4,Systems: Other machines
+10,Manufacture of food products,食品的制造,2.11,Materials production: Food and renewable raw materials
+101,Processing and preserving of meat,肉类的加工和保藏,2.11,Materials production: Food and renewable raw materials
+1010,Processing and preserving of meat,肉类的加工和保藏,2.11,Materials production: Food and renewable raw materials
+102,"Processing and preserving of fish, crustaceans and molluscs",鱼类、甲壳类、软体动物类的加工和保藏,2.11,Materials production: Food and renewable raw materials
+1020,"Processing and preserving of fish, crustaceans and molluscs",鱼类、甲壳类、软体动物类的加工和保藏,2.11,Materials production: Food and renewable raw materials
+103,Processing and preserving of fruit and vegetables,水果和蔬菜的加工和保藏,2.11,Materials production: Food and renewable raw materials
+1030,Processing and preserving of fruit and vegetables,水果和蔬菜的加工和保藏,2.11,Materials production: Food and renewable raw materials
+104,Manufacture of vegetable and animal oils and fats,动植物油和油脂的制造,2.11,Materials production: Food and renewable raw materials
+1040,Manufacture of vegetable and animal oils and fats,动植物油和油脂的制造,2.11,Materials production: Food and renewable raw materials
+105,Manufacture of dairy products,乳制品的制造,2.11,Materials production: Food and renewable raw materials
+1050,Manufacture of dairy products,乳制品的制造,2.11,Materials production: Food and renewable raw materials
+106,"Manufacture of grain mill products, starches and starch products",谷物磨制品、淀粉、淀粉制品的制造,2.11,Materials production: Food and renewable raw materials
+1061,Manufacture of grain mill products,谷物磨制品的制造,2.11,Materials production: Food and renewable raw materials
+1062,Manufacture of starches and starch products,淀粉及淀粉制品的制造,2.11,Materials production: Food and renewable raw materials
+107,Manufacture of other food products,其他食品的制造,2.11,Materials production: Food and renewable raw materials
+1071,Manufacture of bakery products,烘烤食品的制造,2.11,Materials production: Food and renewable raw materials
+1072,Manufacture of sugar,糖的制造,2.11,Materials production: Food and renewable raw materials
+1073,"Manufacture of cocoa, chocolate and sugar confectionery",可可、巧克力和糖果的制造,2.11,Materials production: Food and renewable raw materials
+1074,"Manufacture of macaroni, noodles, couscous and similar farinaceous products",通心粉、面条、方便面和类似的粉面制品的制造,2.11,Materials production: Food and renewable raw materials
+1075,Manufacture of prepared meals and dishes,熟肉和熟食的制造,2.11,Materials production: Food and renewable raw materials
+1076,Processing of coffee and tea,咖啡和茶的加工,2.11,Materials production: Food and renewable raw materials
+1079,Manufacture of other food products n.e.c.,未另分类的其他食品的制造,2.11,Materials production: Food and renewable raw materials
+108,Manufacture of prepared animal feeds,牲畜精饲料的制造,2.11,Materials production: Food and renewable raw materials
+1080,Manufacture of prepared animal feeds,牲畜精饲料的制造,2.11,Materials production: Food and renewable raw materials
+11,Manufacture of beverages,饮料的制造,2.11,Materials production: Food and renewable raw materials
+110,Manufacture of beverages,饮料的制造,2.11,Materials production: Food and renewable raw materials
+1101,"Distilling, rectifying and blending of spirits",烈酒的蒸馏、精馏及勾兑,2.11,Materials production: Food and renewable raw materials
+1102,Manufacture of wines,葡萄酒的制造,2.11,Materials production: Food and renewable raw materials
+1103,Manufacture of beer,啤酒的制造,2.11,Materials production: Food and renewable raw materials
+1104,Manufacture of malt,麦芽的制造,2.11,Materials production: Food and renewable raw materials
+1105,Manufacture of soft drinks; production of mineral waters and other bottled waters,软饮料的制造；矿泉水和其他瓶装水的生产,2.11,Materials production: Food and renewable raw materials
+12,Manufacture of tobacco products,烟草制品的制造,2.11,Materials production: Food and renewable raw materials
+120,Manufacture of tobacco products,烟草制品的制造,2.11,Materials production: Food and renewable raw materials
+1200,Manufacture of tobacco products,烟草制品的制造,2.11,Materials production: Food and renewable raw materials
+13,Manufacture of textiles,纺织品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+131,"Spinning, weaving and finishing of textiles",纺织品的纺纱、编织和精加工,3.7,"Systems: Textiles, furnitures and other interiors"
+1311,Preparation and spinning of textile fibres,纺织纤维的纺前加工和纺纱,3.7,"Systems: Textiles, furnitures and other interiors"
+1312,Weaving of textiles,纺织品的编织,3.7,"Systems: Textiles, furnitures and other interiors"
+1313,Finishing of textiles,纺织品的精加工,3.7,"Systems: Textiles, furnitures and other interiors"
+139,Manufacture of other textiles,其他纺织品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+1391,Manufacture of knitted and crocheted fabrics,针织及钩针编织物的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+1392,"Manufacture of made-up textile articles, except apparel",纺织制成品的制造，服装除外,3.7,"Systems: Textiles, furnitures and other interiors"
+1393,Manufacture of carpets and rugs,地毯和小地毯的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+1394,"Manufacture of cordage, rope, twine and netting",索具、绳子、合股线和网具的制造,2.13,Materials production: Other materials
+1399,Manufacture of other textiles n.e.c.,未另分类的其他纺织品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+14,Manufacture of wearing apparel,服装的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+141,"Manufacture of wearing apparel, except fur apparel",服装制造，但毛皮服装除外,3.7,"Systems: Textiles, furnitures and other interiors"
+1410,"Manufacture of wearing apparel, except fur apparel",服装制造，但毛皮服装除外,3.7,"Systems: Textiles, furnitures and other interiors"
+142,Manufacture of articles of fur,毛皮制品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+1420,Manufacture of articles of fur,毛皮制品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+143,Manufacture of knitted and crocheted apparel,针织和钩针编织服装的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+1430,Manufacture of knitted and crocheted apparel,针织和钩针编织服装的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+15,Manufacture of leather and related products,皮革和相关产品的制造,2.13,Materials production: Other materials
+151,"Tanning, dyeing, dressing of leather and fur; manufacture of luggage, handbags, saddlery and harness",皮革和毛皮的鞣制、染色和整理；行李、手提包、马具和挽具的制造,2.13,Materials production: Other materials
+1511,Tanning and dressing of leather; dressing and dyeing of fur,皮革的鞣制和修整；毛皮的整制和染色,2.13,Materials production: Other materials
+1512,"Manufacture of luggage, handbags and the like, saddlery and harness of any material",行李、手提包及类似制品、马具和挽具的制造（任何材质）,3.7,"Systems: Textiles, furnitures and other interiors"
+152,Manufacture of footwear,鞋靴的制造,2.13,Materials production: Other materials
+1520,Manufacture of footwear,鞋靴的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",木材、木材制品及软木制品的制造(家具除外)、草编制品及编织材料物品的制造,2.12,Materials production: Wood
+161,Sawmilling and planing of wood,锯木和刨木,2.12,Materials production: Wood
+1610,Sawmilling and planing of wood,锯木和刨木,2.12,Materials production: Wood
+162,"Manufacture of products of wood, cork, straw and plaiting materials",木材、木材制品及软木制品的制造、草编制品及编织材料物品的制造,2.12,Materials production: Wood
+1621,Manufacture of veneer sheets and wood-based panels,薄板和木基板材的制造,2.12,Materials production: Wood
+1622,Manufacture of builders' carpentry and joinery,建筑用木料及木材元件的制造,2.12,Materials production: Wood
+1623,Manufacture of wooden containers,木容器的制造,2.12,Materials production: Wood
+1629,"Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",其他木制品的制造；软木制品、草编制品及编织材料物品的制造,2.12,Materials production: Wood
+17,Manufacture of paper and paper products,纸和纸制品的制造,2.8,Materials production: Paper and cardboards
+170,Manufacture of paper and paper products,纸和纸制品的制造,2.8,Materials production: Paper and cardboards
+1701,"Manufacture of pulp, paper and paperboard",纸浆、纸和纸板的制造,2.8,Materials production: Paper and cardboards
+1702,Manufacture of corrugated paper and paperboard and of containers of paper and paperboard,瓦楞纸和瓦楞纸板以及纸和纸板容器的制造,2.8,Materials production: Paper and cardboards
+1709,Manufacture of other articles of paper and paperboard,其他纸制品和纸板制品的制造,2.8,Materials production: Paper and cardboards
+18,Printing and reproduction of recorded media,记录媒介物的印刷及复制,6.6,Other Services: Communication and information services
+181,Printing and service activities related to printing,印刷和与印刷有关的服务活动,6.6,Other Services: Communication and information services
+1811,Printing,印刷,6.6,Other Services: Communication and information services
+1812,Service activities related to printing,与印刷有关的服务活动,6.16,Other Services: Other services
+182,Reproduction of recorded media,记录媒介物的复制,6.6,Other Services: Communication and information services
+1820,Reproduction of recorded media,记录媒介物的复制,6.6,Other Services: Communication and information services
+19,Manufacture of coke and refined petroleum products,焦炭和精炼石油产品的制造,1.7,Energy carriers and technologies: Crude oil based fuels
+191,Manufacture of coke oven products,焦炭炉产品的制造,2.3,Materials production: Organic chemicals
+1910,Manufacture of coke oven products,焦炭炉产品的制造,2.3,Materials production: Organic chemicals
+192,Manufacture of refined petroleum products; manufacture of fossil fuel products,精炼石油产品制造；化石燃料产品制造,1.7,Energy carriers and technologies: Crude oil based fuels
+1920,Manufacture of refined petroleum products; manufacture of fossil fuel products,精炼石油产品制造；化石燃料产品制造,1.7,Energy carriers and technologies: Crude oil based fuels
+20,Manufacture of chemicals and chemical products,化学品及化学制品的制造,2.3,Materials production: Organic chemicals
+201,"Manufacture of basic chemicals, fertilizers and nitrogen compounds, plastics and synthetic rubber in primary forms",基本化学品、化肥、氮化合物、初级塑料和合成橡胶的制造,2.3,Materials production: Organic chemicals
+2011,Manufacture of basic chemicals,基本化学品的制造,2.3,Materials production: Organic chemicals
+2012,Manufacture of fertilizers and nitrogen compounds,化肥及氮化合物的制造,2.4,Materials production: Inorganic chemicals
+2013,Manufacture of plastics and synthetic rubber in primary forms,初级塑料和合成橡胶的制造,2.7,Materials production: Plastics
+202,Manufacture of other chemical products,其他化学制品的制造,2.3,Materials production: Organic chemicals
+2021,Manufacture of pesticides and other agrochemical products,农药及其他农业化工制品的制造,2.4,Materials production: Inorganic chemicals
+2022,"Manufacture of paints, varnishes and similar coatings, printing ink and mastics",颜料、清漆和类似涂料、印刷油墨及胶粘剂的制造,3.9,Systems: Paints and chemical preparations
+2023,"Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",肥皂和洗涤剂、清洁剂和抛光剂、香水及盥洗用品的制造,3.9,Systems: Paints and chemical preparations
+2029,Manufacture of other chemical products n.e.c.,未另分类的其他化学制品的制造,2.3,Materials production: Organic chemicals
+203,Manufacture of man-made fibres,人造纤维的制造,2.7,Materials production: Plastics
+2030,Manufacture of man-made fibres,人造纤维的制造,2.7,Materials production: Plastics
+21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,基本医药产品和医药制剂的制造,2.3,Materials production: Organic chemicals
+210,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",药品、药用化学品及植物药材的制造,2.3,Materials production: Organic chemicals
+2100,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",药品、药用化学品及植物药材的制造,2.3,Materials production: Organic chemicals
+22,Manufacture of rubber and plastic products,橡胶和塑料制品制造,2.7,Materials production: Plastics
+221,Manufacture of rubber products,橡胶制品的制造,2.13,Materials production: Other materials
+2211,Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,橡胶轮胎和内胎的制造；橡胶轮胎的翻新和再造,2.7,Materials production: Plastics
+2219,Manufacture of other rubber products,其他橡胶制品的制造,2.13,Materials production: Other materials
+222,Manufacture of plastics products,塑料制品的制造,2.7,Materials production: Plastics
+2220,Manufacture of plastics products,塑料制品的制造,2.7,Materials production: Plastics
+23,Manufacture of other non-metallic mineral products,其他非金属矿物制品的制造,2.6,Materials production: Other mineralic materials
+231,Manufacture of glass and glass products,玻璃和玻璃制品的制造,2.5,Materials production: Glass and ceramics
+2310,Manufacture of glass and glass products,玻璃和玻璃制品的制造,2.5,Materials production: Glass and ceramics
+239,Manufacture of non-metallic mineral products n.e.c.,未另分类的非金属矿物制品的制造,2.6,Materials production: Other mineralic materials
+2391,Manufacture of refractory products,耐火制品的制造,2.6,Materials production: Other mineralic materials
+2392,Manufacture of clay building materials,黏土建筑材料的制造,2.5,Materials production: Glass and ceramics
+2393,Manufacture of other porcelain and ceramic products,其他陶瓷制品的制造,2.5,Materials production: Glass and ceramics
+2394,"Manufacture of cement, lime and plaster",水泥、石灰和石膏制品的制造,2.6,Materials production: Other mineralic materials
+2395,"Manufacture of articles of concrete, cement and plaster",混凝土、水泥及石膏制品的制造,2.6,Materials production: Other mineralic materials
+2396,"Cutting, shaping and finishing of stone",石头的切割、成形和精加工,2.6,Materials production: Other mineralic materials
+2399,Manufacture of other non-metallic mineral products n.e.c.,未另分类的其他非金属矿物制品的制造,2.6,Materials production: Other mineralic materials
+24,Manufacture of basic metals,基本金属的制造,2.2,Materials production: Metals and semimetals
+241,Manufacture of basic iron and steel,基本钢铁的制造,2.2,Materials production: Metals and semimetals
+2410,Manufacture of basic iron and steel,基本钢铁的制造,2.2,Materials production: Metals and semimetals
+242,Manufacture of basic precious and other non-ferrous metals,基本贵重有色金属的制造,2.2,Materials production: Metals and semimetals
+2420,Manufacture of basic precious and other non-ferrous metals,基本贵重有色金属的制造,2.2,Materials production: Metals and semimetals
+243,Casting of metals,金属的铸造,2.2,Materials production: Metals and semimetals
+2431,Casting of iron and steel,钢铁的铸造,2.2,Materials production: Metals and semimetals
+2432,Casting of non-ferrous metals,有色金属的铸造,2.2,Materials production: Metals and semimetals
+25,"Manufacture of fabricated metal products, except machinery and equipment",金属制品的制造，但机械设备除外,2.2,Materials production: Metals and semimetals
+251,"Manufacture of structural metal products, tanks, reservoirs and steam generators",结构性金属制品、油罐、水箱和蒸汽锅炉的制造,3.5,Systems: Construction
+2511,Manufacture of structural metal products,结构性金属制品的制造,3.5,Systems: Construction
+2512,"Manufacture of tanks, reservoirs and containers of metal",油罐、水箱和金属容器的制造,3.4,Systems: Other machines
+2513,"Manufacture of steam generators, except central heating hot water boilers",蒸汽锅炉的制造，但中央供热锅炉除外,3.4,Systems: Other machines
+252,Manufacture of weapons and ammunition,武器和弹药的制造,6.9,Other Services: Defence
+2520,Manufacture of weapons and ammunition,武器和弹药的制造,6.9,Other Services: Defence
+259,Manufacture of other fabricated metal products; metalworking service activities,其他金属制品的制造；为金属加工提供的服务活动,2.2,Materials production: Metals and semimetals
+2591,"Forging, pressing, stamping and roll-forming of metal; powder metallurgy",金属的锻造、压制、冲压和轧制；粉末冶金,2.2,Materials production: Metals and semimetals
+2592,Treatment and coating of metals; machining,金属的处理和包覆；机加工,6.4,Other Services: Repair and maintenance
+2593,"Manufacture of cutlery, hand tools and general hardware",刀具、手工工具和普通金属器具的制造,3.4,Systems: Other machines
+2599,Manufacture of other fabricated metal products n.e.c.,未另分类的其他金属制品的制造,2.2,Materials production: Metals and semimetals
+26,"Manufacture of computer, electronic and optical products",计算机、电子产品和光学产品的制造,3.2,Systems: Electrics and electronics
+261,Manufacture of electronic components and boards,电子元件和电子板的生产,3.2,Systems: Electrics and electronics
+2611,"Manufacture of solar cells, solar panels and photovoltaic inverters",太阳能电池、太阳能板及光伏逆变器制造,1.11,Energy carriers and technologies: Renewable fuels
+2619,Manufacture of other electronic components and boards,其他电子元件及电路板的制造,3.2,Systems: Electrics and electronics
+262,Manufacture of computers and peripheral equipment,计算机和外部设备的制造,3.2,Systems: Electrics and electronics
+2620,Manufacture of computers and peripheral equipment,计算机和外部设备的制造,3.2,Systems: Electrics and electronics
+263,Manufacture of communication equipment,通信设备的制造,3.2,Systems: Electrics and electronics
+2630,Manufacture of communication equipment,通信设备的制造,3.2,Systems: Electrics and electronics
+264,Manufacture of consumer electronics,电子消费品的制造,3.2,Systems: Electrics and electronics
+2640,Manufacture of consumer electronics,电子消费品的制造,3.2,Systems: Electrics and electronics
+265,"Manufacture of measuring, testing, navigating and control equipment; watches and clocks",测量、检验、导航和控制设备的制造；钟表制造,3.4,Systems: Other machines
+2651,"Manufacture of measuring, testing, navigating and control equipment",测量、检验、导航和控制设备的制造,3.2,Systems: Electrics and electronics
+2652,Manufacture of watches and clocks,钟表的制造,3.4,Systems: Other machines
+266,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",辐射、电子医疗和电子理疗设备的制造,3.2,Systems: Electrics and electronics
+2660,"Manufacture of irradiation, electromedical and electrotherapeutic equipment",辐射、电子医疗和电子理疗设备的制造,3.2,Systems: Electrics and electronics
+267,Manufacture of optical instruments and photographic equipment,光学仪器和摄影器材的制造,3.2,Systems: Electrics and electronics
+2670,Manufacture of optical instruments and photographic equipment,光学仪器和摄影器材的制造,3.2,Systems: Electrics and electronics
+268,Manufacture of magnetic and optical media,磁性媒介物和光学媒介物的制造,3.2,Systems: Electrics and electronics
+2680,Manufacture of magnetic and optical media,磁性媒介物和光学媒介物的制造,3.2,Systems: Electrics and electronics
+27,Manufacture of electrical equipment,电力设备的制造,3.2,Systems: Electrics and electronics
+271,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",电动机、发电机和变压器的制造以及配电和控制设备的制造,3.2,Systems: Electrics and electronics
+2710,"Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",电动机、发电机和变压器的制造以及配电和控制设备的制造,3.2,Systems: Electrics and electronics
+272,Manufacture of batteries and accumulators,电池和蓄电池的制造,3.2,Systems: Electrics and electronics
+2720,Manufacture of batteries and accumulators,电池和蓄电池的制造,2.13,Materials production: Other materials
+273,Manufacture of wiring and wiring devices,配线和配线设备的制造,3.2,Systems: Electrics and electronics
+2731,Manufacture of fibre optic cables,光纤电缆的制造,3.2,Systems: Electrics and electronics
+2732,Manufacture of other electronic and electric wires and cables,其他电线和电缆的制造,3.2,Systems: Electrics and electronics
+2733,Manufacture of wiring devices,配线设备的制造,3.2,Systems: Electrics and electronics
+274,Manufacture of lighting equipment,照明设备制造,3.2,Systems: Electrics and electronics
+2740,Manufacture of lighting equipment,照明设备制造,3.2,Systems: Electrics and electronics
+275,Manufacture of domestic appliances,家用电器的制造,3.6,Systems: White goods
+2750,Manufacture of domestic appliances,家用电器的制造,3.6,Systems: White goods
+279,Manufacture of other electrical equipment,其他电子设备的制造,3.2,Systems: Electrics and electronics
+2790,Manufacture of other electrical equipment,其他电子设备的制造,3.2,Systems: Electrics and electronics
+28,Manufacture of machinery and equipment n.e.c.,未另分类的机械和设备的制造,3.4,Systems: Other machines
+281,Manufacture of general-purpose machinery,通用机械的制造,3.4,Systems: Other machines
+2811,"Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",发动机和涡轮机的制造(飞机、汽车和摩托车发动机除外),3.4,Systems: Other machines
+2812,Manufacture of fluid power equipment,液压设备的制造,3.4,Systems: Other machines
+2813,"Manufacture of other pumps, compressors, taps and valves",其他泵、压缩机、旋塞和阀门的制造,3.4,Systems: Other machines
+2814,"Manufacture of bearings, gears, gearing and driving elements",轴承、齿轮、传动和驱动部件的制造,3.4,Systems: Other machines
+2815,"Manufacture of ovens, furnaces and permanent household heating equipment",烤箱、熔炉和固定家用供暖设备制造,3.6,Systems: White goods
+2816,Manufacture of lifting and handling equipment,起重及装卸设备的制造,3.4,Systems: Other machines
+2817,Manufacture of office machinery and equipment (except computers and peripheral equipment),办公机械和设备的制造(计算机及外部产品除外),3.4,Systems: Other machines
+2818,Manufacture of power-driven hand tools,电动手工工具的生产,3.4,Systems: Other machines
+2819,Manufacture of other general-purpose machinery,其他通用机械的制造,3.4,Systems: Other machines
+282,Manufacture of special-purpose machinery,专用机械的制造,3.4,Systems: Other machines
+2821,Manufacture of agricultural and forestry machinery,农业和林业机械的制造,2.10,Materials production: Agricultural production means
+2822,Manufacture of metal-forming machinery and machine tools,金属成型机械和机械的制造,3.4,Systems: Other machines
+2823,Manufacture of machinery for metallurgy,冶金机械的制造,3.4,Systems: Other machines
+2824,"Manufacture of machinery for mining, quarrying and construction",采矿、采石及建筑机械的制造,3.4,Systems: Other machines
+2825,"Manufacture of machinery for food, beverage and tobacco processing",食品、饮料和烟草加工机械的制造,3.4,Systems: Other machines
+2826,"Manufacture of machinery for textile, apparel and leather production",用于纺织、服装和皮革生产的机械的制造,3.4,Systems: Other machines
+2829,Manufacture of other special-purpose machinery,其他专用机械的制造,3.4,Systems: Other machines
+29,"Manufacture of motor vehicles, trailers and semi-trailers",汽车、挂车和半挂车的制造,3.3,Systems: Vehicles
+291,Manufacture of motor vehicles,汽车的制造,3.3,Systems: Vehicles
+2910,Manufacture of motor vehicles,汽车的制造,3.3,Systems: Vehicles
+292,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,汽车车身的制造(车身的设计、制造和装配)；挂车和半挂车的制造,3.3,Systems: Vehicles
+2920,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,汽车车身的制造(车身的设计、制造和装配)；挂车和半挂车的制造,3.3,Systems: Vehicles
+293,Manufacture of parts and accessories for motor vehicles,汽车及其发动机零件和附件的制造,3.3,Systems: Vehicles
+2930,Manufacture of parts and accessories for motor vehicles,汽车及其发动机零件和附件的制造,3.3,Systems: Vehicles
+30,Manufacture of other transport equipment,其他运输设备的制造,3.3,Systems: Vehicles
+301,Building of ships and boats,船舶的建造,3.3,Systems: Vehicles
+3011,Building of ships and floating structures,船只和浮动设施的制造,3.4,Systems: Other machines
+3012,Building of pleasure and sporting boats,游船和运动船的建造,3.3,Systems: Vehicles
+302,Manufacture of railway locomotives and rolling stock,铁道机车及其拖曳车辆的制造,3.3,Systems: Vehicles
+3020,Manufacture of railway locomotives and rolling stock,铁道机车及其拖曳车辆的制造,3.3,Systems: Vehicles
+303,Manufacture of air and spacecraft and related machinery,飞机、航天器和相关机械的制造,3.3,Systems: Vehicles
+3030,Manufacture of air and spacecraft and related machinery,飞机、航天器和相关机械的制造,3.4,Systems: Other machines
+304,Manufacture of military fighting vehicles,军用战车的制造,6.9,Other Services: Defence
+3040,Manufacture of military fighting vehicles,军用战车的制造,6.9,Other Services: Defence
+309,Manufacture of transport equipment n.e.c.,未另分类的运输设备的制造,3.3,Systems: Vehicles
+3091,Manufacture of motorcycles,摩托车的制造,3.3,Systems: Vehicles
+3092,Manufacture of bicycles and invalid carriages,自行车和残疾人座车的制造,3.3,Systems: Vehicles
+3099,Manufacture of other transport equipment n.e.c.,未另分类的其他运输设备的制造,3.4,Systems: Other machines
+31,Manufacture of furniture,家具的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+310,Manufacture of furniture,家具的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+3101,Manufacture of wooden furniture,木制家具制造,3.7,"Systems: Textiles, furnitures and other interiors"
+3102,Manufacture of other furniture,其他家具制造,3.7,"Systems: Textiles, furnitures and other interiors"
+32,Other manufacturing,其他制造业,3.10,Systems: Other systems
+321,"Manufacture of jewellery, bijouterie and related articles",珠宝、小件装饰物及有关物品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+3211,Manufacture of jewellery and related articles,珠宝及有关物品的制造,2.13,Materials production: Other materials
+3212,Manufacture of imitation jewellery and related articles,仿真首饰及有关物品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+322,Manufacture of musical instruments,乐器的制造,3.4,Systems: Other machines
+3220,Manufacture of musical instruments,乐器的制造,3.4,Systems: Other machines
+323,Manufacture of sports goods,体育用品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+3230,Manufacture of sports goods,体育用品的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+324,Manufacture of games and toys,游艺用品及玩具的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+3240,Manufacture of games and toys,游艺用品及玩具的制造,3.7,"Systems: Textiles, furnitures and other interiors"
+325,Manufacture of medical and dental instruments and supplies,医疗和牙科工具和用品的制造,3.4,Systems: Other machines
+3250,Manufacture of medical and dental instruments and supplies,医疗和牙科工具和用品的制造,3.4,Systems: Other machines
+329,Other manufacturing n.e.c.,未另分类的其他用品的制造,3.10,Systems: Other systems
+3290,Other manufacturing n.e.c.,未另分类的其他用品的制造,3.10,Systems: Other systems
+33,"Repair, maintenance and installation of machinery and equipment",机械设备的维修、保养和安装,6.4,Other Services: Repair and maintenance
+331,"Repair and maintenance of fabricated metal products, machinery and equipment",金属制品、机械设备的维修和保养,6.4,Other Services: Repair and maintenance
+3311,Repair and maintenance of fabricated metal products,金属制品的维修和保养,6.4,Other Services: Repair and maintenance
+3312,Repair and maintenance of machinery,机械设备的维修和保养,6.4,Other Services: Repair and maintenance
+3313,Repair and maintenance of electronic and optical equipment,电子和光学设备的维修和保养,6.4,Other Services: Repair and maintenance
+3314,Repair and maintenance of electrical equipment,电气设备的维修和保养,6.4,Other Services: Repair and maintenance
+3315,"Repair and maintenance of transport equipment, except motor vehicles",运输设备（机动车除外）的维修和保养,6.4,Other Services: Repair and maintenance
+3319,Repair and maintenance of other equipment,其他设备的维修和保养,6.4,Other Services: Repair and maintenance
+332,Installation of industrial machinery and equipment,工业机械和设备的安装,6.4,Other Services: Repair and maintenance
+3320,Installation of industrial machinery and equipment,工业机械和设备的安装,6.4,Other Services: Repair and maintenance
+D,"Electricity, gas, steam and air conditioning supply",电、煤气、蒸气和空调的供应,1.2,Energy carriers and technologies: Electricity
+35,"Electricity, gas, steam and air conditioning supply",电、煤气、蒸气和空调的供应,1.2,Energy carriers and technologies: Electricity
+351,"Electric power generation, transmission and distribution activities",电力生产、传输和分配活动,1.2,Energy carriers and technologies: Electricity
+3511,Electric power generation activities from non-renewable sources,非可再生能源的电力生产活动,1.2,Energy carriers and technologies: Electricity
+3512,Electric power generation activities from renewable sources,可再生能源的电力生产活动,1.2,Energy carriers and technologies: Electricity
+3513,Electric power transmission and distribution activities,电力传输和分配活动,1.2,Energy carriers and technologies: Electricity
+352,Manufacture of gas; distribution of gaseous fuels through mains,煤气的制造；通过主管道输送的气体燃料,1.8,Energy carriers and technologies: Natural gas based fuels
+3520,Manufacture of gas; distribution of gaseous fuels through mains,煤气的制造；通过主管道输送的气体燃料,1.8,Energy carriers and technologies: Natural gas based fuels
+353,Steam and air conditioning supply,蒸气和空调的供应,1.3,Energy carriers and technologies: Heat and steam
+3530,Steam and air conditioning supply,蒸气和空调的供应,1.3,Energy carriers and technologies: Heat and steam
+354,Activities of brokers and agents for electric power and natural gas,电力和天然气的经纪人和代理活动,6.7,"Other Services: Financial, legal, and insurance"
+3540,Activities of brokers and agents for electric power and natural gas,电力和天然气的经纪人和代理活动,6.7,"Other Services: Financial, legal, and insurance"
+E,"Water supply; sewerage, waste management and remediation activities",供水；污水处理、废物管理和补救活动,4.7,End-of-life treatment: Waste water treatment
+36,"Water collection, treatment and supply",集水、水处理与水供应,2.9,Materials production: Water
+360,"Water collection, treatment and supply",集水、水处理与水供应,2.9,Materials production: Water
+3600,"Water collection, treatment and supply",集水、水处理与水供应,2.9,Materials production: Water
+37,Sewerage,污水处理,4.7,End-of-life treatment: Waste water treatment
+370,Sewerage,污水处理,4.7,End-of-life treatment: Waste water treatment
+3700,Sewerage,污水处理,4.7,End-of-life treatment: Waste water treatment
+38,"Waste collection, treatment and disposal, and recovery activities",废物的收集、处理、处置及回收活动,4.6,End-of-life treatment: Waste collection
+381,Waste collection activities,废物收集活动,4.6,End-of-life treatment: Waste collection
+3811,Collection of non-hazardous waste,无害废物的收集,4.6,End-of-life treatment: Waste collection
+3812,Collection of hazardous waste,有害废物的收集,4.6,End-of-life treatment: Waste collection
+382,Waste treatment and disposal,废物的处理和处置,4.9,End-of-life treatment: Other end-of-life services
+3821,Treatment and disposal of non-hazardous waste,无害废物的处理和处置,4.9,End-of-life treatment: Other end-of-life services
+3822,Treatment and disposal of hazardous waste,有害废物的处理和处置,4.9,End-of-life treatment: Other end-of-life services
+383,Materials and other waste recovery,材料及其他废物回收,4.2,End-of-life treatment: Material recycling
+3830,Materials and other waste recovery,材料及其他废物回收,4.2,End-of-life treatment: Material recycling
+39,Remediation and other waste management service activities,修复及其他废物管理服务活动,4.9,End-of-life treatment: Other end-of-life services
+390,Remediation and other waste management service activities,修复及其他废物管理服务活动,4.9,End-of-life treatment: Other end-of-life services
+3900,Remediation and other waste management service activities,修复及其他废物管理服务活动,4.9,End-of-life treatment: Other end-of-life services
+F,Construction,建筑业,3.5,Systems: Construction
+41,Construction of residential and non-residential buildings,住宅及非住宅建筑的建设,3.5,Systems: Construction
+410,Construction of residential and non-residential buildings,住宅及非住宅建筑的建设,3.5,Systems: Construction
+4100,Construction of residential and non-residential buildings,住宅及非住宅建筑的建设,3.5,Systems: Construction
+42,Civil engineering,土木工程,3.5,Systems: Construction
+421,Construction of roads and railways,公路和铁路的建造,3.5,Systems: Construction
+4210,Construction of roads and railways,公路和铁路的建造,3.5,Systems: Construction
+422,Construction of utility projects,配套工程建设,3.5,Systems: Construction
+4220,Construction of utility projects,配套工程建设,3.5,Systems: Construction
+429,Construction of other civil engineering projects,其他土木工程项目,3.5,Systems: Construction
+4290,Construction of other civil engineering projects,其他土木工程项目,3.5,Systems: Construction
+43,Specialized construction activities,特殊建筑活动,3.5,Systems: Construction
+431,Demolition and site preparation,建筑物的拆除和场地的准备,6.4,Other Services: Repair and maintenance
+4311,Demolition,建筑物的拆除,4.9,End-of-life treatment: Other end-of-life services
+4312,Site preparation,场地的准备,6.15,Other Services: Engineering and consulting
+432,"Electrical, plumbing and other construction installation activities",电气、管道和其他构件的安装活动,3.5,Systems: Construction
+4321,Electrical installation,电气安装,6.4,Other Services: Repair and maintenance
+4322,"Plumbing, heat and air-conditioning installation",管道、供暖和空调系统的安装,6.4,Other Services: Repair and maintenance
+4329,Other construction installation,其他建筑设备的安装,3.5,Systems: Construction
+433,Building completion and finishing,建筑装修和装饰,3.5,Systems: Construction
+4330,Building completion and finishing,建筑装修和装饰,3.5,Systems: Construction
+434,Intermediation service activities for specialized construction services,专业建筑服务的中介服务活动,6.15,Other Services: Engineering and consulting
+4340,Intermediation service activities for specialized construction services,专业建筑服务的中介服务活动,6.15,Other Services: Engineering and consulting
+439,Other specialized construction activities,其他专门的建筑活动,3.5,Systems: Construction
+4390,Other specialized construction activities,其他专门的建筑活动,3.5,Systems: Construction
+G,Wholesale and retail trade,批发和零售贸易,6.5,Other Services: Sale and whole sale
+46,Wholesale trade,批发贸易,6.5,Other Services: Sale and whole sale
+461,Wholesale on a fee or contract basis,在收费或合同基础上的批发,6.5,Other Services: Sale and whole sale
+4610,Wholesale on a fee or contract basis,在收费或合同基础上的批发,6.5,Other Services: Sale and whole sale
+462,Wholesale of agricultural raw materials and live animals,农业原料和活畜的批发,6.5,Other Services: Sale and whole sale
+4620,Wholesale of agricultural raw materials and live animals,农业原料和活畜的批发,6.5,Other Services: Sale and whole sale
+463,"Wholesale of food, beverages and tobacco",食品、饲料和烟草的批发,6.5,Other Services: Sale and whole sale
+4630,"Wholesale of food, beverages and tobacco",食品、饲料和烟草的批发,6.5,Other Services: Sale and whole sale
+464,Wholesale of household goods,家庭用品的批发,6.5,Other Services: Sale and whole sale
+4641,"Wholesale of textiles, clothing and footwear",纺织品、服装和鞋靴的批发,6.5,Other Services: Sale and whole sale
+4642,"Wholesale of household, office and shop furniture, carpets and lighting equipment",家庭、办公室和商店家具、地毯和照明设备的批发,6.5,Other Services: Sale and whole sale
+4649,Wholesale of other household goods,其他家庭用品的批发,6.5,Other Services: Sale and whole sale
+465,"Wholesale of machinery, equipment and supplies",机械、设备和物资的批发,6.5,Other Services: Sale and whole sale
+4651,"Wholesale of computers, computer peripheral equipment and software",计算机及其外部设备和软件的批发,6.5,Other Services: Sale and whole sale
+4652,Wholesale of electronic and telecommunications equipment and parts,电子和电信设备与零件的批发,6.5,Other Services: Sale and whole sale
+4653,"Wholesale of agricultural machinery, equipment and supplies",农业机械、设备和物资的批发,6.5,Other Services: Sale and whole sale
+4659,Wholesale of other machinery and equipment,其他机械和设备的批发,6.5,Other Services: Sale and whole sale
+466,"Wholesale of motor vehicles, motorcycles and related parts and accessories",机动车、摩托车及相关零件和配件的批发,6.5,Other Services: Sale and whole sale
+4661,Wholesale of motor vehicles,机动车的批发,6.5,Other Services: Sale and whole sale
+4662,Wholesale of motor vehicle parts and accessories,机动车零件及配件的批发,6.5,Other Services: Sale and whole sale
+4663,"Wholesale of motorcycles, motorcycle parts and accessories",摩托车及摩托车零件和配件的批发,6.5,Other Services: Sale and whole sale
+467,Other specialized wholesale,其他批发,6.5,Other Services: Sale and whole sale
+4671,"Wholesale of solid, liquid and gaseous fuels and related products",固体、液体和气体燃料及有关产品的批发,6.5,Other Services: Sale and whole sale
+4672,Wholesale of metals and metal ores,金属和金属矿物的批发,6.5,Other Services: Sale and whole sale
+4673,"Wholesale of construction materials, hardware, plumbing and heating equipment and supplies",建筑材料、五金制品、管道设备和供暖设备及物资的批发,6.5,Other Services: Sale and whole sale
+4679,"Wholesale of chemicals, waste and scrap and other products n.e.c.",化学品、废料和其他未分类产品的批发,6.5,Other Services: Sale and whole sale
+469,Non-specialized wholesale trade,非专门批发贸易,6.5,Other Services: Sale and whole sale
+4690,Non-specialized wholesale trade,非专门批发贸易,6.5,Other Services: Sale and whole sale
+47,Retail trade,零售贸易,6.5,Other Services: Sale and whole sale
+471,Non-specialized retail sale,非专业化零售,6.5,Other Services: Sale and whole sale
+4711,"Non-specialized retail sale with food, beverages or tobacco predominating",以食品、饮料或烟草为主的非专业化零售,6.5,Other Services: Sale and whole sale
+4719,Other non-specialized retail sale,其他非专业化零售,6.5,Other Services: Sale and whole sale
+472,"Retail sale of food, beverages and tobacco",食品、饮料和烟草的零售,6.5,Other Services: Sale and whole sale
+4721,Retail sale of food,食品零售,6.5,Other Services: Sale and whole sale
+4722,Retail sale of beverages,饮料零售,6.5,Other Services: Sale and whole sale
+4723,Retail sale of tobacco products,烟草制品零售,6.5,Other Services: Sale and whole sale
+473,Retail sale of automotive fuel,汽车燃料零售,6.5,Other Services: Sale and whole sale
+4730,Retail sale of automotive fuel,汽车燃料零售,6.5,Other Services: Sale and whole sale
+474,Retail sale of information and communication equipment,信息和通信设备零售,6.5,Other Services: Sale and whole sale
+4740,Retail sale of information and communication equipment,信息和通信设备零售,6.5,Other Services: Sale and whole sale
+475,Retail sale of other household equipment,其他家庭设备零售,6.5,Other Services: Sale and whole sale
+4751,Retail sale of textiles,纺织品零售,6.5,Other Services: Sale and whole sale
+4752,"Retail sale of hardware, building materials, paints and glass",五金、建材、油漆和玻璃的零售,6.5,Other Services: Sale and whole sale
+4753,"Retail sale of carpets, rugs, wall and floor coverings",地毯、地垫、墙面和地面覆盖物的零售,6.5,Other Services: Sale and whole sale
+4759,"Retail sale of electrical household appliances, furniture, lighting equipment and other household articles",电器、家具、照明设备及其他家居用品的零售,6.5,Other Services: Sale and whole sale
+476,Retail sale of cultural and recreational goods,文化和娱乐商品的零售,6.5,Other Services: Sale and whole sale
+4761,"Retail sale of books, newspapers, stationery and office supplies",书籍、报纸、文具及办公用品的零售,6.5,Other Services: Sale and whole sale
+4762,Retail sale of sporting equipment,体育用品的零售,6.5,Other Services: Sale and whole sale
+4763,Retail sale of games and toys,游戏和玩具的零售,6.5,Other Services: Sale and whole sale
+4769,Retail sale of cultural and recreational goods n.e.c.,其他未分类的文化和娱乐商品零售,6.5,Other Services: Sale and whole sale
+477,"Retail sale of other goods, except motor vehicles and motorcycles",除机动车和摩托车外的其他商品零售,6.5,Other Services: Sale and whole sale
+4771,"Retail sale of clothing, footwear and leather articles",服装、鞋类和皮革制品的零售,6.5,Other Services: Sale and whole sale
+4772,"Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles",药品、医疗用品、化妆品及盥洗用品的零售,6.5,Other Services: Sale and whole sale
+4773,Retail sale of other new goods n.e.c.,其他未分类的新商品零售,6.5,Other Services: Sale and whole sale
+4774,Retail sale of second-hand goods,旧货的零售,4.1,End-of-life treatment: Reuse or further use
+478,"Retail sale of motor vehicles, motorcycles and related parts and accessories",机动车、摩托车及相关零件和配件的零售,6.5,Other Services: Sale and whole sale
+4781,Retail sale of motor vehicles,机动车的零售,6.5,Other Services: Sale and whole sale
+4782,Retail sale of motor vehicle parts and accessories,机动车零件及配件的零售,6.5,Other Services: Sale and whole sale
+4783,"Retail sale of motorcycles, motorcycles parts and accessories",摩托车及摩托车零件和配件的零售,6.5,Other Services: Sale and whole sale
+479,Intermediation service activities for retail sale,零售销售的中介服务活动,6.5,Other Services: Sale and whole sale
+4790,Intermediation service activities for retail sale,零售销售的中介服务活动,6.5,Other Services: Sale and whole sale
+H,Transportation and storage,运输和储存,6.2,Other Services: Storage
+49,Land transport and transport via pipelines,陆路运输与管道运输,5.1,Transport services: Road
+491,Transport via railways,铁路运输,5.2,Transport services: Rail
+4911,"Passenger rail transport, interurban",城际铁路客运,5.2,Transport services: Rail
+4912,Freight rail transport,铁路货运,5.2,Transport services: Rail
+492,Other land transport,其他陆路运输,5.1,Transport services: Road
+4921,Urban and suburban passenger land transport,市内与近郊的陆路客运,5.1,Transport services: Road
+4922,Other passenger land transport,其他陆路客运,5.1,Transport services: Road
+4923,Freight transport by road,公路货物运输,5.1,Transport services: Road
+493,Transport via pipeline,管道运输,5.5,Transport services: Other transport
+4930,Transport via pipeline,管道运输,5.5,Transport services: Other transport
+50,Water transport,水上运输,5.3,Transport services: Water
+501,Sea and coastal water transport,远洋和沿海水上运输,5.3,Transport services: Water
+5011,Sea and coastal passenger water transport,远洋和沿海水上客运,5.3,Transport services: Water
+5012,Sea and coastal freight water transport,远洋和沿海水上货运,5.3,Transport services: Water
+502,Inland water transport,内陆水运,5.3,Transport services: Water
+5021,Inland passenger water transport,内陆水上客运,5.3,Transport services: Water
+5022,Inland freight water transport,内陆水上货运,5.3,Transport services: Water
+51,Air transport,航空运输,5.4,Transport services: Air
+511,Passenger air transport,空中客运,5.4,Transport services: Air
+5110,Passenger air transport,空中客运,5.4,Transport services: Air
+512,Freight air transport,空中货运,5.4,Transport services: Air
+5120,Freight air transport,空中货运,5.4,Transport services: Air
+52,Warehousing and support activities for transportation,储存和运输辅助活动,6.2,Other Services: Storage
+521,Warehousing and storage,储存和入库,6.2,Other Services: Storage
+5210,Warehousing and storage,储存和入库,6.2,Other Services: Storage
+522,Support activities for transportation,运输辅助活动,5.5,Transport services: Other transport
+5221,Service activities incidental to land transportation,陆路运输附属服务活动,5.1,Transport services: Road
+5222,Service activities incidental to water transportation,水运附属服务活动,5.3,Transport services: Water
+5223,Service activities incidental to air transportation,空运附属服务活动,5.4,Transport services: Air
+5224,Cargo handling,货物装卸,5.5,Transport services: Other transport
+5229,Other support activities for transportation ,其他运输支持活动,5.5,Transport services: Other transport
+523,Intermediation service activities for transportation,运输中介服务活动,5.5,Transport services: Other transport
+5231,Intermediation service activities for freight transportation,货物运输中介服务活动,5.5,Transport services: Other transport
+5232,Intermediation service activities for passenger transportation,客运中介服务活动,5.5,Transport services: Other transport
+53,Postal and courier activities,邮政和邮递活动,5.5,Transport services: Other transport
+531,Postal activities,邮政活动,6.6,Other Services: Communication and information services
+5310,Postal activities,邮政活动,6.6,Other Services: Communication and information services
+532,Courier activities,邮递活动,5.5,Transport services: Other transport
+5320,Courier activities,邮递活动,5.5,Transport services: Other transport
+533,Intermediation service activities for postal and courier activities,邮政和邮递中介服务活动,6.6,Other Services: Communication and information services
+5330,Intermediation service activities for postal and courier activities,邮政和邮递中介服务活动,6.6,Other Services: Communication and information services
+I,Accommodation and food service activities,食宿服务活动,6.10,Other Services: Lodging and gastronomy
+55,Accommodation,住宿,6.10,Other Services: Lodging and gastronomy
+551,Hotels and similar accommodation activities,酒店及类似的住宿活动,6.10,Other Services: Lodging and gastronomy
+5510,Hotels and similar accommodation activities,酒店及类似的住宿活动,6.10,Other Services: Lodging and gastronomy
+552,Other short term accommodation activities,其他短期住宿活动,6.10,Other Services: Lodging and gastronomy
+5520,Other short term accommodation activities,其他短期住宿活动,6.10,Other Services: Lodging and gastronomy
+553,"Camping grounds, recreational vehicle parks and trailer parks",露营地，娱乐车辆停车场和活动停车场,6.10,Other Services: Lodging and gastronomy
+5530,"Camping grounds, recreational vehicle parks and trailer parks",露营地，娱乐车辆停车场和活动停车场,6.10,Other Services: Lodging and gastronomy
+554,Intermediation service activities for accommodation,房地产中介服务活动,6.14,Other Services: Renting
+5540,Intermediation service activities for accommodation,房地产中介服务活动,6.14,Other Services: Renting
+559,Other accommodation n.e.c.,其他未分类住宿,6.10,Other Services: Lodging and gastronomy
+5590,Other accommodation n.e.c.,其他未分类住宿,6.10,Other Services: Lodging and gastronomy
+56,Food and beverage service activities,食品和饮料供应服务活动,6.10,Other Services: Lodging and gastronomy
+561,Restaurants and mobile food service activities,餐馆和移动餐车食品供应服务活动,6.10,Other Services: Lodging and gastronomy
+5610,Restaurants and mobile food service activities,餐馆和移动餐车食品供应服务活动,6.10,Other Services: Lodging and gastronomy
+562,Event catering and other food service activities,活动餐饮和其他食品供应服务活动,6.10,Other Services: Lodging and gastronomy
+5621,Event catering activities,活动餐饮活动,6.10,Other Services: Lodging and gastronomy
+5629,Other food service activities,其他食品供应服务活动,6.10,Other Services: Lodging and gastronomy
+563,Beverage serving activities,饮料供应服务活动,6.10,Other Services: Lodging and gastronomy
+5630,Beverage serving activities,饮料供应服务活动,6.10,Other Services: Lodging and gastronomy
+564,Intermediation service activities for food and beverage services activities,餐饮服务中介活动,6.10,Other Services: Lodging and gastronomy
+5640,Intermediation service activities for food and beverage services activities,餐饮服务中介活动,6.10,Other Services: Lodging and gastronomy
+J,"Publishing, broadcasting, and content production and distribution activities",出版、广播及内容制作和分发活动,6.6,Other Services: Communication and information services
+58,Publishing activities,出版活动,6.6,Other Services: Communication and information services
+581,"Publishing of books, newspapers, periodicals and other publishing activities",图书、报纸、期刊及其他出版活动,6.6,Other Services: Communication and information services
+5811,Publishing of books,图书出版,6.6,Other Services: Communication and information services
+5812,Publishing of newspapers,报纸出版,6.6,Other Services: Communication and information services
+5813,Publishing of journals and periodicals,期刊和杂志出版,6.6,Other Services: Communication and information services
+5819,Other publishing activities,其他出版活动,6.6,Other Services: Communication and information services
+582,Software publishing,软件的发行,6.6,Other Services: Communication and information services
+5821,Publishing of video games,视频游戏出版,6.13,Other Services: Entertainment
+5829,Other software publishing,其他软件出版,6.6,Other Services: Communication and information services
+59,"Motion picture, video and television programme production, sound recording and music publishing activities",电影、录像和电视节目的制作、录音及音乐作品出版活动,6.13,Other Services: Entertainment
+591,"Motion picture, video and television programme activities",电影、录像和电视节目的制作活动,6.13,Other Services: Entertainment
+5911,"Motion picture, video and television programme production activities",电影、录像和电视节目的制作活动,6.13,Other Services: Entertainment
+5912,"Motion picture, video and television programme post-production activities",电影、录像和电视节目的后期制作活动,6.13,Other Services: Entertainment
+5913,"Motion picture, video and television programme distribution activities",电影、录像和电视节目的发行活动,6.13,Other Services: Entertainment
+5914,Motion picture projection activities,电影放映活动,6.13,Other Services: Entertainment
+592,Sound recording and music publishing activities,录音和音乐作品发行活动,6.13,Other Services: Entertainment
+5920,Sound recording and music publishing activities,录音和音乐作品发行活动,6.13,Other Services: Entertainment
+60,"Programming, broadcasting, news agency and other content distribution activities",节目制作、广播、通讯社及其他内容分发活动,6.6,Other Services: Communication and information services
+601,Radio broadcasting and audio distribution activities,广播和音频分发活动,6.6,Other Services: Communication and information services
+6010,Radio broadcasting and audio distribution activities,广播和音频分发活动,6.6,Other Services: Communication and information services
+602,"Television programming, broadcasting and video distribution activities",电视节目制作、广播和视频分发活动,6.6,Other Services: Communication and information services
+6020,"Television programming, broadcasting and video distribution activities",电视节目制作、广播和视频分发活动,6.6,Other Services: Communication and information services
+603,News agency and other content distribution activities,通讯社及其他内容分发活动,6.6,Other Services: Communication and information services
+6031,News agency activities,新闻机构的活动,6.6,Other Services: Communication and information services
+6039,Social network sites and other content distribution activities,社交网站及其他内容分发活动,6.6,Other Services: Communication and information services
+K,"Telecommunications, computer programming, consultancy, computing infrastructure, and other information service activities",电信、计算机编程、咨询、计算基础设施及其他信息服务活动,6.6,Other Services: Communication and information services
+61,Telecommunications,电信,6.6,Other Services: Communication and information services
+611,"Wired, wireless, and satellite telecommunication activities",有线、无线和卫星电信活动,6.6,Other Services: Communication and information services
+6110,"Wired, wireless, and satellite telecommunication activities",有线、无线和卫星电信活动,6.6,Other Services: Communication and information services
+612,Telecommunication reselling activities and intermediation service activities for telecommunication,电信转售及中介服务活动,6.6,Other Services: Communication and information services
+6120,Telecommunication reselling activities and intermediation service activities for telecommunication,电信转售及中介服务活动,6.6,Other Services: Communication and information services
+619,Other telecommunication activities,其他电信活动,6.6,Other Services: Communication and information services
+6190,Other telecommunication activities,其他电信活动,6.6,Other Services: Communication and information services
+62,"Computer programming, consultancy and related activities",计算机程序设计、咨询及相关活动,6.6,Other Services: Communication and information services
+621,Computer programming activities,计算机程序设计活动,6.6,Other Services: Communication and information services
+6211,"Development of video games, video game software, and video game software tools",视频游戏、游戏软件及相关工具开发,6.13,Other Services: Entertainment
+6219,Other computer programming activities,其他计算机编程活动,6.6,Other Services: Communication and information services
+622,Computer consultancy and computer facilities management activities,计算机咨询服务和设施管理活动,6.6,Other Services: Communication and information services
+6220,Computer consultancy and computer facilities management activities,计算机咨询服务和设施管理活动,6.6,Other Services: Communication and information services
+629,Other information technology and computer service activities,其他信息技术和计算机服务活动,6.6,Other Services: Communication and information services
+6290,Other information technology and computer service activities,其他信息技术和计算机服务活动,6.6,Other Services: Communication and information services
+63,"Computing infrastructure, data processing, hosting, and other information service activities",计算基础设施、数据处理、托管及其他信息服务活动,6.6,Other Services: Communication and information services
+631,"Computing infrastructure, data processing, hosting and related activities",计算基础设施、数据处理、托管及相关活动,6.6,Other Services: Communication and information services
+6310,"Computing infrastructure, data processing, hosting and related activities",计算基础设施、数据处理、托管及相关活动,6.6,Other Services: Communication and information services
+639,Web search portals activities and other information service activities,网络搜索门户及其他信息服务活动,6.6,Other Services: Communication and information services
+6390,Web search portals activities and other information service activities,网络搜索门户及其他信息服务活动,6.6,Other Services: Communication and information services
+L,Financial and insurance activities,金融和保险活动,6.7,"Other Services: Financial, legal, and insurance"
+64,"Financial service activities, except insurance and pension funding",金融服务活动，保险和养恤金除外,6.7,"Other Services: Financial, legal, and insurance"
+641,Monetary intermediation,货币媒介活动,6.7,"Other Services: Financial, legal, and insurance"
+6411,Central banking,中央银行业务,6.7,"Other Services: Financial, legal, and insurance"
+6419,Other monetary intermediation,其他货币媒介活动,6.7,"Other Services: Financial, legal, and insurance"
+642,Activities of holding companies and financing conduits,控股公司的活动,6.7,"Other Services: Financial, legal, and insurance"
+6421,Activities of holding companies,控股公司的活动,6.7,"Other Services: Financial, legal, and insurance"
+6422,Activities of financing conduits,融资通道的活动,6.7,"Other Services: Financial, legal, and insurance"
+643,"Activities of trusts, funds and similar financial entities",信托、基金及类似金融实体的活动,6.7,"Other Services: Financial, legal, and insurance"
+6431,Activities of money market funds,货币市场基金的活动,6.7,"Other Services: Financial, legal, and insurance"
+6432,Activities of non-money market investments funds,非货币市场投资基金的活动,6.7,"Other Services: Financial, legal, and insurance"
+6433,"Activities of trust, estate and agency accounts",信托、遗产及代理账户的活动,6.7,"Other Services: Financial, legal, and insurance"
+649,"Other financial service activities, except insurance and pension funding activities",其他金融服务活动，保险和养恤金除外,6.7,"Other Services: Financial, legal, and insurance"
+6491,Financial leasing activities,金融租赁活动,6.7,"Other Services: Financial, legal, and insurance"
+6492,International trade financing activities,国际贸易融资活动,6.7,"Other Services: Financial, legal, and insurance"
+6493,Factoring activities,保理活动,6.7,"Other Services: Financial, legal, and insurance"
+6494,Securitisation activities,证券化活动,6.7,"Other Services: Financial, legal, and insurance"
+6495,Other credit granting activities,其他信贷发放活动,6.7,"Other Services: Financial, legal, and insurance"
+6499,"Other financial service activities n.e.c., except insurance and pension funding activities",其他未分类的金融服务活动，除保险和养老金筹资外,6.7,"Other Services: Financial, legal, and insurance"
+65,"Insurance, reinsurance and pension funding, except compulsory social security",保险、再保险和养恤金，但强制性社会保障除外,6.7,"Other Services: Financial, legal, and insurance"
+651,Insurance,保险,6.7,"Other Services: Financial, legal, and insurance"
+6511,Life insurance,人寿保险,6.7,"Other Services: Financial, legal, and insurance"
+6512,Non-life insurance,非人寿保险,6.7,"Other Services: Financial, legal, and insurance"
+652,Reinsurance,再保险,6.7,"Other Services: Financial, legal, and insurance"
+6520,Reinsurance,再保险,6.7,"Other Services: Financial, legal, and insurance"
+653,Pension funding,养恤金,6.7,"Other Services: Financial, legal, and insurance"
+6530,Pension funding,养恤金,6.7,"Other Services: Financial, legal, and insurance"
+66,Activities auxiliary to financial service and insurance activities,金融保险服务及其附属活动,6.7,"Other Services: Financial, legal, and insurance"
+661,"Activities auxiliary to financial services, except insurance and pension funding",金融服务附属活动，保险和养恤金除外,6.7,"Other Services: Financial, legal, and insurance"
+6611,Administration of financial markets,金融市场的管理,6.7,"Other Services: Financial, legal, and insurance"
+6612,Security and commodity contracts brokerage,证券和商品合约经纪,6.7,"Other Services: Financial, legal, and insurance"
+6619,"Other activities auxiliary to financial service activities, except insurance and pension funding ",其他金融服务附属活动,6.7,"Other Services: Financial, legal, and insurance"
+662,Activities auxiliary to insurance and pension funding,保险和养恤金的附属活动,6.7,"Other Services: Financial, legal, and insurance"
+6621,Risk and damage evaluation,风险和损失评估,6.7,"Other Services: Financial, legal, and insurance"
+6622,Activities of insurance agents and brokers,保险代理人和经纪人的活动,6.7,"Other Services: Financial, legal, and insurance"
+6629,Other activities auxiliary to insurance and pension funding,其他保险和养恤金的附属活动,6.7,"Other Services: Financial, legal, and insurance"
+663,Fund management activities,基金管理活动,6.7,"Other Services: Financial, legal, and insurance"
+6630,Fund management activities,基金管理活动,6.7,"Other Services: Financial, legal, and insurance"
+M,Real estate activities,房地产活动,6.14,Other Services: Renting
+68,Real estate activities,房地产活动,6.14,Other Services: Renting
+681,Real estate activities with own or leased property,用自有或租赁财产进行的房地产活动,6.14,Other Services: Renting
+6810,Real estate activities with own or leased property,用自有或租赁财产进行的房地产活动,6.14,Other Services: Renting
+682,Real estate activities on a fee or contract basis,在收费或合同基础上进行的房地产活动,6.14,Other Services: Renting
+6821,Intermediation service activities for real estate,房地产中介服务活动,6.5,Other Services: Sale and whole sale
+6829,Other real estate activities on a fee or contract basis,基于费用或合同的其他房地产活动,6.16,Other Services: Other services
+N,"Professional, scientific and technical activities",专业、科学和技术活动,6.15,Other Services: Engineering and consulting
+69,Legal and accounting activities,法律和会计活动,6.7,"Other Services: Financial, legal, and insurance"
+691,Legal activities,法律活动,6.7,"Other Services: Financial, legal, and insurance"
+6910,Legal activities,法律活动,6.7,"Other Services: Financial, legal, and insurance"
+692,"Accounting, bookkeeping and auditing activities; tax consultancy",会计、簿记和审计活动；税务咨询服务,6.7,"Other Services: Financial, legal, and insurance"
+6920,"Accounting, bookkeeping and auditing activities; tax consultancy",会计、簿记和审计活动；税务咨询服务,6.7,"Other Services: Financial, legal, and insurance"
+70,Activities of head offices; management consultancy activities,总公司的活动；管理咨询活动,6.8,Other Services: Administration and government
+701,Activities of head offices,总公司的活动,6.8,Other Services: Administration and government
+7010,Activities of head offices,总公司的活动,6.8,Other Services: Administration and government
+702,Business and other management consultancy activities,商务及其他管理咨询活动,6.15,Other Services: Engineering and consulting
+7020,Business and other management consultancy activities,商务及其他管理咨询活动,6.15,Other Services: Engineering and consulting
+71,Architectural and engineering activities; technical testing and analysis,建筑和工程活动；技术测试和分析,6.15,Other Services: Engineering and consulting
+711,"Architectural and engineering, and related technical consultancy activities",建筑和工程及相关技术咨询活动,6.15,Other Services: Engineering and consulting
+7110,"Architectural and engineering, and related technical consultancy activities",建筑和工程及相关技术咨询活动,6.15,Other Services: Engineering and consulting
+712,Technical testing and analysis,技术测试和分析,6.15,Other Services: Engineering and consulting
+7120,Technical testing and analysis,技术测试和分析,6.15,Other Services: Engineering and consulting
+72,Scientific research and development ,科学研究与开发,6.12,Other Services: Research and development
+721,Research and experimental development on natural sciences and engineering,自然科学和工程学的研究及试验发展,6.12,Other Services: Research and development
+7210,Research and experimental development on natural sciences and engineering,自然科学和工程学的研究及试验发展,6.12,Other Services: Research and development
+722,Research and experimental development on social sciences and humanities,社会学和人文学的研究与试验发展,6.12,Other Services: Research and development
+7220,Research and experimental development on social sciences and humanities,社会学和人文学的研究与试验发展,6.12,Other Services: Research and development
+73,"Activities of advertising, market research and public relations",广告、市场研究及公共关系活动,6.6,Other Services: Communication and information services
+731,Advertising activities ,广告活动,6.6,Other Services: Communication and information services
+7310,Advertising activities ,广告活动,6.6,Other Services: Communication and information services
+732,Market research and public opinion polling activities ,市场研究及民意调查活动,6.6,Other Services: Communication and information services
+7320,Market research and public opinion polling activities ,市场研究及民意调查活动,6.6,Other Services: Communication and information services
+733,Public relations activities,公共关系活动,6.6,Other Services: Communication and information services
+7330,Public relations activities,公共关系活动,6.6,Other Services: Communication and information services
+74,"Other professional, scientific and technical activities",其他专业、科学和技术活动,6.15,Other Services: Engineering and consulting
+741,Specialized design activities ,专业化设计活动,6.15,Other Services: Engineering and consulting
+7410,Specialized design activities ,专业化设计活动,6.15,Other Services: Engineering and consulting
+742,Photographic activities ,摄影活动,6.13,Other Services: Entertainment
+7420,Photographic activities ,摄影活动,6.13,Other Services: Entertainment
+743,Translation and interpretation activities ,翻译和口译活动,6.6,Other Services: Communication and information services
+7430,Translation and interpretation activities ,翻译和口译活动,6.6,Other Services: Communication and information services
+749,"Other professional, scientific and technical activities n.e.c.",未另分类的其他专业、科学和技术活动,6.15,Other Services: Engineering and consulting
+7491,Patent brokering and marketing service activities,专利经纪和营销服务活动,6.7,"Other Services: Financial, legal, and insurance"
+7499,"All other professional, scientific and technical activities n.e.c. ",所有其他未分类的专业、科学及技术活动,6.15,Other Services: Engineering and consulting
+75,Veterinary activities ,兽医活动,6.3,"Other Services: Health, social services, beauty and wellness"
+750,Veterinary activities ,兽医活动,6.3,"Other Services: Health, social services, beauty and wellness"
+7500,Veterinary activities ,兽医活动,6.3,"Other Services: Health, social services, beauty and wellness"
+O,Administrative and support service activities,行政和辅助活动,6.8,Other Services: Administration and government
+77,Rental and leasing activities,出租和租赁活动,6.14,Other Services: Renting
+771,Rental and leasing of motor vehicles,汽车的出租和租赁,6.14,Other Services: Renting
+7710,Rental and leasing of motor vehicles,汽车的出租和租赁,6.14,Other Services: Renting
+772,Rental and leasing of personal and household goods,私人和家庭用品的出租和租赁,6.14,Other Services: Renting
+7721,Rental and leasing of recreational and sports goods,娱乐和体育设备的出租和租赁,6.14,Other Services: Renting
+7729,Rental and leasing of other personal and household goods,其他私人和家庭用品的出租和租赁,6.14,Other Services: Renting
+773,"Rental and leasing of other machinery, equipment and tangible goods",其他机械、设备和有形商品的租赁,6.14,Other Services: Renting
+7730,"Rental and leasing of other machinery, equipment and tangible goods",其他机械、设备和有形商品的租赁,6.14,Other Services: Renting
+774,"Leasing of intellectual property and similar products, except copyrighted works",知识产权和产品的租赁，版权作品除外,6.14,Other Services: Renting
+7740,"Leasing of intellectual property and similar products, except copyrighted works",知识产权和产品的租赁，版权作品除外,6.14,Other Services: Renting
+775,Intermediation service activities for rental and leasing of tangible goods and non-financial intangible assets,有形物品和非金融无形资产租赁和出租的中介服务活动,6.14,Other Services: Renting
+7751,"Intermediation service activities for rental and leasing of cars, motorhomes and trailers",汽车、房车和拖车租赁和出租的中介服务活动,6.14,Other Services: Renting
+7752,Intermediation service activities for rental and leasing of other tangible goods and non-financial intangible assets,其他有形物品和非金融无形资产租赁和出租的中介服务活动,6.14,Other Services: Renting
+78,Employment activities,就业活动,6.8,Other Services: Administration and government
+781,Activities of employment placement agencies,就业安置机构的活动,6.16,Other Services: Other services
+7810,Activities of employment placement agencies,就业安置机构的活动,6.8,Other Services: Administration and government
+782,Temporary employment agency activities and other human resource provisions,临时雇佣代理活动及其他人力资源服务,6.8,Other Services: Administration and government
+7820,Temporary employment agency activities and other human resource provisions,临时雇佣代理活动及其他人力资源服务,6.8,Other Services: Administration and government
+79,"Travel agency, tour operator, and other travel related activities",旅行社、旅行运营商及其他与旅游相关的活动,6.10,Other Services: Lodging and gastronomy
+791,Travel agency and tour operator activities,旅行社和旅游经营者的活动,6.10,Other Services: Lodging and gastronomy
+7911,Travel agency activities,旅行社的活动,6.13,Other Services: Entertainment
+7912,Tour operator activities,旅游经营者的活动,6.10,Other Services: Lodging and gastronomy
+799,Other travel related activities,其他与旅游相关的活动,6.16,Other Services: Other services
+7990,Other travel related activities,其他与旅游相关的活动,6.16,Other Services: Other services
+80,Investigation and security activities,调查与安全活动,6.9,Other Services: Defence
+801,Investigation and security activities,调查与安全活动,6.9,Other Services: Defence
+8011,Investigation and private security activities,调查与私人安全活动,6.16,Other Services: Other services
+8019,Security activities n.e.c.,其他未分类的安全活动,6.9,Other Services: Defence
+81,Services to buildings and landscape activities,为楼宇和院落景观活动提供的服务,6.1,Other Services: Cleaning
+811,Combined facilities support activities,设施综合支助服务活动,6.8,Other Services: Administration and government
+8110,Combined facilities support activities,设施综合支助服务活动,6.8,Other Services: Administration and government
+812,Cleaning activities,清洁活动,6.1,Other Services: Cleaning
+8121,General cleaning of buildings,楼宇的一般内部清洁,6.1,Other Services: Cleaning
+8129,Other cleaning activities,其他清洁活动,6.1,Other Services: Cleaning
+813,Landscape service activities,景观服务活动,6.16,Other Services: Other services
+8130,Landscape service activities,景观服务活动,6.16,Other Services: Other services
+82,"Office administrative, office support and other business support activities",办公室行政管理、办公支持和其他企业辅助活动,6.8,Other Services: Administration and government
+821,Office administrative and support activities,办公室管理和辅助活动,6.8,Other Services: Administration and government
+8210,Office administrative and support activities,办公室管理和辅助活动,6.8,Other Services: Administration and government
+822,Activities of call centres,呼叫中心的活动,6.6,Other Services: Communication and information services
+8220,Activities of call centres,呼叫中心的活动,6.6,Other Services: Communication and information services
+823,Organization of conventions and trade shows,会议和贸易展览会的举办,6.13,Other Services: Entertainment
+8230,Organization of conventions and trade shows,会议和贸易展览会的举办,6.13,Other Services: Entertainment
+824,"Intermediation service activities for business support activities n.e.c., except financial intermediation",未分类的商务支持活动的中介服务，金融中介活动除外,6.8,Other Services: Administration and government
+8240,"Intermediation service activities for business support activities n.e.c., except financial intermediation",未分类的商务支持活动的中介服务，金融中介活动除外,6.8,Other Services: Administration and government
+829,Business support service activities n.e.c.,未另分类的商务辅助服务活动,6.16,Other Services: Other services
+8291,Activities of collection agencies and credit bureaus,收款公司和信贷局的活动,6.7,"Other Services: Financial, legal, and insurance"
+8292,Packaging activities,包装活动,3.1,Systems: Packaging
+8299,Other business support service activities n.e.c.,未另分类的其他商务辅助服务活动,6.16,Other Services: Other services
+P,Public administration and defence; compulsory social security,公共管理与国防；强制性社会保障,6.8,Other Services: Administration and government
+84,Public administration and defence; compulsory social security,公共管理与国防；强制性社会保障,6.8,Other Services: Administration and government
+841,"Administration of the State and the economic, social and environmental policies of the community",国家和社会的经济、社会及环境政策管理,6.8,Other Services: Administration and government
+8411,General public administration activities,一般公共行政管理活动,6.8,Other Services: Administration and government
+8412,"Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security and environment",医疗、教育、文化服务和其他社会服务（不包括社会保障和环境）的活动监管,6.8,Other Services: Administration and government
+8413,Regulation of the activities of providing environmental services,环境服务活动的监管,6.8,Other Services: Administration and government
+8414,Regulation of and contribution to more efficient operation of businesses,为提高企业经营效率进行的监管和促进活动,6.8,Other Services: Administration and government
+842,Provision of services to the community as a whole,为整个社会提供服务,6.8,Other Services: Administration and government
+8421,Foreign affairs,外交事务,6.8,Other Services: Administration and government
+8422,Defence activities,国防活动,6.9,Other Services: Defence
+8423,Public order and safety activities,公共秩序和安全活动,6.8,Other Services: Administration and government
+843,Compulsory social security activities,强制性社会保障活动,6.8,Other Services: Administration and government
+8430,Compulsory social security activities,强制性社会保障活动,6.8,Other Services: Administration and government
+Q,Education,教育,6.11,Other Services: Education
+85,Education,教育,6.11,Other Services: Education
+851,Pre-primary education ,学前教育,6.11,Other Services: Education
+8510,Pre-primary education ,学前教育,6.11,Other Services: Education
+852,Primary education ,初等教育,6.11,Other Services: Education
+8520,Primary education ,初等教育,6.11,Other Services: Education
+853,Secondary and post-secondary non-tertiary education,中等及非高等教育,6.11,Other Services: Education
+8531,General secondary education ,普通中等教育,6.11,Other Services: Education
+8532,Vocational secondary education,职业中等教育,6.11,Other Services: Education
+8533,Post-secondary non-tertiary education ,中学后非高等教育,6.11,Other Services: Education
+854,Tertiary education,高等教育,6.11,Other Services: Education
+8540,Tertiary education,高等教育,6.11,Other Services: Education
+855,Other education,其他教育,6.11,Other Services: Education
+8551, Sports and recreation education ,体育和娱乐教育,6.11,Other Services: Education
+8552, Cultural education,文化教育,6.11,Other Services: Education
+8553,Driving school activities,驾驶学校活动,6.11,Other Services: Education
+8559,Other education n.e.c.,未另分类的其他教育,6.11,Other Services: Education
+856,Educational support activities,教育辅助活动,6.11,Other Services: Education
+8561,Intermediation service activities for courses and tutors,课程和导师的中介服务活动,6.11,Other Services: Education
+8569,Other educational support activities,其他教育支持活动,6.11,Other Services: Education
+R,Human health and social work activities,人体健康和社会工作活动,6.3,"Other Services: Health, social services, beauty and wellness"
+86,Human health activities,人体健康活动,6.3,"Other Services: Health, social services, beauty and wellness"
+861,Hospital activities,医院活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8610,Hospital activities,医院活动,6.3,"Other Services: Health, social services, beauty and wellness"
+862,Medical and dental practice activities ,医疗和牙科实践活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8620,Medical and dental practice activities ,医疗和牙科实践活动,6.3,"Other Services: Health, social services, beauty and wellness"
+869,Other human health activities ,其他人类健康活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8691,"Intermediation service activities for medical, dental, and other human health services",医疗、牙科及其他健康服务的中介服务活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8699,Other human health activities n.e.c,其他未分类的人类健康活动,6.3,"Other Services: Health, social services, beauty and wellness"
+87,Residential care activities,住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+871,Residential nursing care activities ,住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8710,Residential nursing care activities ,住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+872,Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse,为患有精神疾病或物质滥用问题的人员提供的住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8720,Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse,为患有精神疾病或物质滥用问题的人员提供的住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+873,Residential care activities for older persons or persons with physical disabilities,为老年人或身体残疾者提供的住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8730,Residential care activities for older persons or persons with physical disabilities,为老年人或身体残疾者提供的住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+879,Other residential care activities,其他留宿护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8791,Intermediation service activities for residential care activities,住宅护理活动的中介服务活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8799,Other residential care activities n.e.c.,其他未分类的住宅护理活动,6.3,"Other Services: Health, social services, beauty and wellness"
+88,Social work activities without accommodation ,不提供住宿的社会工作活动,6.3,"Other Services: Health, social services, beauty and wellness"
+881,Social work activities without accommodation for older persons or persons with disabilities,为老年人或残疾人提供的不提供住宿的社会工作活动,6.3,"Other Services: Health, social services, beauty and wellness"
+8810,Social work activities without accommodation for older persons or persons with disabilities,为老年人或残疾人提供的不提供住宿的社会工作活动,6.3,"Other Services: Health, social services, beauty and wellness"
+889,Other social work activities without accommodation,其他不配备食宿的社会服务,6.3,"Other Services: Health, social services, beauty and wellness"
+8890,Other social work activities without accommodation,其他不配备食宿的社会服务,6.3,"Other Services: Health, social services, beauty and wellness"
+S,"Arts, sports and recreation",艺术、体育和娱乐,6.13,Other Services: Entertainment
+90,Arts creation and performing arts activities,艺术创作与表演艺术活动,6.13,Other Services: Entertainment
+901,Arts creation activities,艺术创作活动,6.13,Other Services: Entertainment
+9011,Literary creation and musical composition activities,文学创作和音乐创作活动,6.13,Other Services: Entertainment
+9012,Visual arts creation activities ,视觉艺术创作活动,6.13,Other Services: Entertainment
+9013,Other arts creation activities ,其他艺术创作活动,6.13,Other Services: Entertainment
+902,Activities of performing arts ,表演艺术活动,6.13,Other Services: Entertainment
+9020,Activities of performing arts ,表演艺术活动,6.13,Other Services: Entertainment
+903,Support activities to arts creation and performing arts,艺术创作与表演艺术的支持活动,6.13,Other Services: Entertainment
+9031,Operation of arts facilities and sites ,艺术设施和场地的运营,6.13,Other Services: Entertainment
+9039,Other support activities to arts creation and performing arts,其他艺术创作与表演艺术的支持活动,6.13,Other Services: Entertainment
+91,"Library, archives, museum and other cultural activities ",图书馆、档案馆、博物馆及其他文化活动,6.13,Other Services: Entertainment
+911,Library and archive activities,图书馆和档案馆活动,6.11,Other Services: Education
+9111,Library activities,图书馆活动,6.11,Other Services: Education
+9112,Archive activities,档案馆活动,6.2,Other Services: Storage
+912,"Museum, collection, historical site and monument activities",博物馆、收藏、历史遗址及纪念碑活动,6.13,Other Services: Entertainment
+9121,Museum and collection activities ,博物馆和收藏活动,6.13,Other Services: Entertainment
+9122,Historical site and monument activities,历史遗址和纪念碑活动,6.13,Other Services: Entertainment
+913,"Conservation, restoration and other support activities for cultural heritage ",文化遗产的保护、修复及其他支持活动,6.13,Other Services: Entertainment
+9130,"Conservation, restoration and other support activities for cultural heritage ",文化遗产的保护、修复及其他支持活动,6.13,Other Services: Entertainment
+914,Botanical and zoological garden and nature reserve activities,植物园、动物园和自然保护区活动,6.13,Other Services: Entertainment
+9141,Botanical and zoological garden activities ,植物园和动物园活动,6.13,Other Services: Entertainment
+9142,Nature reserve activities,自然保护区活动,6.13,Other Services: Entertainment
+92,Gambling and betting activities,赌博和博彩活动,6.13,Other Services: Entertainment
+920,Gambling and betting activities,赌博和博彩活动,6.13,Other Services: Entertainment
+9200,Gambling and betting activities,赌博和博彩活动,6.13,Other Services: Entertainment
+93,Sports activities and amusement and recreation activities,体育活动、娱乐及休闲活动,6.13,Other Services: Entertainment
+931,Sports activities ,体育活动,6.13,Other Services: Entertainment
+9311,Operation of sports facilities,体育设施的运营,6.13,Other Services: Entertainment
+9312,Activities of sports clubs ,体育俱乐部活动,6.13,Other Services: Entertainment
+9319,Other sports activities ,其他体育活动,6.13,Other Services: Entertainment
+932,Amusement and recreation activities ,娱乐和休闲活动,6.13,Other Services: Entertainment
+9321,Activities of amusement parks and theme parks,游乐公园和主题公园的活动,6.13,Other Services: Entertainment
+9329,Other amusement and recreation activities,其他娱乐和文娱活动,6.13,Other Services: Entertainment
+T,Other service activities,其他服务活动,6.16,Other Services: Other services
+94,Activities of membership organizations,成员组织的活动,6.8,Other Services: Administration and government
+941,"Activities of business, employers and professional membership organizations",企业、雇主和专业成员组织的活动,6.8,Other Services: Administration and government
+9411,Activities of business and employers membership organizations,企业和雇主组织的活动,6.8,Other Services: Administration and government
+9412,Activities of professional membership organizations,专业成员组织的活动,6.8,Other Services: Administration and government
+942,Activities of trade unions,工会活动,6.8,Other Services: Administration and government
+9420,Activities of trade unions,工会活动,6.8,Other Services: Administration and government
+949,Activities of other membership organizations,其他成员组织的活动,6.8,Other Services: Administration and government
+9491,Activities of religious organizations,宗教组织的活动,6.16,Other Services: Other services
+9492,Activities of political organizations,政治组织的活动,6.8,Other Services: Administration and government
+9499,Activities of other membership organizations n.e.c.,未另分类的其他成员组织的活动,6.8,Other Services: Administration and government
+95,"Repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",计算机、个人及家庭用品和机动车辆及摩托车的维修和保养,6.4,Other Services: Repair and maintenance
+951,Repair and maintenance of computers and communication equipment,计算机及通信设备的维修和保养,6.4,Other Services: Repair and maintenance
+9510,Repair and maintenance of computers and communication equipment,计算机及通信设备的维修和保养,6.4,Other Services: Repair and maintenance
+952,Repair and maintenance of personal and household goods,个人及家庭用品的维修和保养,6.4,Other Services: Repair and maintenance
+9521,Repair and maintenance of consumer electronics,消费电子产品的维修和保养,6.4,Other Services: Repair and maintenance
+9522,Repair and maintenance of household appliances and home and garden equipment,家用电器和家居园艺设备的维修和保养,6.4,Other Services: Repair and maintenance
+9523,Repair and maintenance of footwear and leather goods,鞋类及皮革制品的维修和保养,6.4,Other Services: Repair and maintenance
+9524,Repair and maintenance of furniture and home furnishings,家具及家居饰品的维修和保养,6.4,Other Services: Repair and maintenance
+9529,Repair and maintenance of other personal and household goods,其他个人及家庭用品的维修和保养,6.4,Other Services: Repair and maintenance
+953,Repair and maintenance of motor vehicles and motorcycles,机动车辆及摩托车的维修和保养,6.4,Other Services: Repair and maintenance
+9531,Repair and maintenance of motor vehicles,机动车辆的维修和保养,6.4,Other Services: Repair and maintenance
+9532,Repair and maintenance of motorcycles,摩托车的维修和保养,6.4,Other Services: Repair and maintenance
+954,"Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",计算机、个人及家庭用品和机动车辆及摩托车维修和保养的中介服务活动,6.4,Other Services: Repair and maintenance
+9540,"Intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles",计算机、个人及家庭用品和机动车辆及摩托车维修和保养的中介服务活动,6.4,Other Services: Repair and maintenance
+96,Personal service activities,个人服务活动,6.3,"Other Services: Health, social services, beauty and wellness"
+961,Washing and cleaning of textile and fur products,纺织品和毛皮制品的清洗和洗涤,6.1,Other Services: Cleaning
+9610,Washing and cleaning of textile and fur products,纺织品和毛皮制品的清洗和洗涤,6.1,Other Services: Cleaning
+962,"Hairdressing, beauty treatment, day spa and similar activities",美发、美容护理、日间水疗和类似活动,6.3,"Other Services: Health, social services, beauty and wellness"
+9621,Hairdressing and barber activities,美发和理发活动,6.3,"Other Services: Health, social services, beauty and wellness"
+9622,Beauty care and other beauty treatment activities,美容护理及其他美容治疗活动,6.3,"Other Services: Health, social services, beauty and wellness"
+9623,"Day spa, sauna and steam bath activities",日间水疗、桑拿和蒸汽浴活动,6.3,"Other Services: Health, social services, beauty and wellness"
+963,Funeral and related activities,殡葬及有关活动,6.16,Other Services: Other services
+9630,Funeral and related activities,殡葬及有关活动,6.16,Other Services: Other services
+964,Intermediation service activities for personal services,个人服务的中介服务活动,6.16,Other Services: Other services
+9640,Intermediation service activities for personal services,个人服务的中介服务活动,6.16,Other Services: Other services
+969,Other personal service activities n.e.c.,未另分类的其他个人服务活动,6.16,Other Services: Other services
+9690,Other personal service activities n.e.c.,未另分类的其他个人服务活动,6.16,Other Services: Other services
+U,Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,家庭作为雇主的活动；家庭自用、未加区分的物品生产和服务活动,6.16,Other Services: Other services
+97,Activities of households as employers of domestic personnel,家庭作为家政人员雇主的活动,6.16,Other Services: Other services
+970,Activities of households as employers of domestic personnel,家庭作为家政人员雇主的活动,6.8,Other Services: Administration and government
+9700,Activities of households as employers of domestic personnel,家庭作为家政人员雇主的活动,6.8,Other Services: Administration and government
+98,Undifferentiated goods- and services-producing activities of private households for own use,未加区分的私人家庭自用物品生产和服务活动,6.16,Other Services: Other services
+981,Undifferentiated goods-producing activities of private households for own use,未加区分的私人家庭自用物品生产活动,7.1,Use and consumption: Consumption of goods
+9810,Undifferentiated goods-producing activities of private households for own use,未加区分的私人家庭自用物品生产活动,6.16,Other Services: Other services
+982,Undifferentiated service-producing activities of private households for own use,未加区分的私人家庭自我服务活动,6.16,Other Services: Other services
+9820,Undifferentiated service-producing activities of private households for own use,未加区分的私人家庭自我服务活动,6.16,Other Services: Other services
+V,Activities of extraterritorial organizations and bodies ,国际组织和机构的活动,6.8,Other Services: Administration and government
+99,Activities of extraterritorial organizations and bodies ,国际组织和机构的活动,6.8,Other Services: Administration and government
+990,Activities of extraterritorial organizations and bodies ,国际组织和机构的活动,6.8,Other Services: Administration and government
+9900,Activities of extraterritorial organizations and bodies ,国际组织和机构的活动,6.8,Other Services: Administration and government
