@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b53ec18f-7377-4ad3-86eb-cc3f4f276b2b</common:UUID>
 <common:name xml:lang="en">Eutrophication, freshwater</common:name>
+<common:name xml:lang="zh">富营养化, 淡水</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Aquatic Eutrophication</impactCategory>
 <impactIndicator>Fraction of nutrients reaching freshwater end compartment (P)</impactIndicator>

@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>7fce5b3a-66b8-4ce1-91e8-a925aee1f186</common:UUID>
 <common:name xml:lang="en">Climate change-Fossil</common:name>
+<common:name xml:lang="zh">气候变化-化石源</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Climate change</impactCategory>
 <impactIndicator>Radiative forcing as Global Warming Potential (GWP100)</impactIndicator>

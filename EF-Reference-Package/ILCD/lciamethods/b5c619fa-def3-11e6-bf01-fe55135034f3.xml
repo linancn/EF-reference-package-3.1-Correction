@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b5c619fa-def3-11e6-bf01-fe55135034f3</common:UUID>
 <common:name xml:lang="en">Eutrophication marine</common:name>
+<common:name xml:lang="zh">富营养化, 海水</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Aquatic Eutrophication</impactCategory>
 <impactIndicator>Fraction of nutrients reaching marine end compartment (N)</impactIndicator>

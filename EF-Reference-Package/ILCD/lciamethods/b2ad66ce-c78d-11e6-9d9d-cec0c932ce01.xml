@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b2ad66ce-c78d-11e6-9d9d-cec0c932ce01</common:UUID>
 <common:name xml:lang="en">Water use</common:name>
+<common:name xml:lang="zh">水资源消耗</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>other</impactCategory>
 <impactIndicator>User deprivation potential (deprivation-weighted water consumption)</impactIndicator>

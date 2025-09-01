@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b5c632be-def3-11e6-bf01-fe55135034f3</common:UUID>
 <common:name xml:lang="en">Ionising radiation, human health</common:name>
+<common:name xml:lang="zh">电离辐射, 人类健康</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Ionizing radiation</impactCategory>
 <impactIndicator>Human exposure efficiency relative to U235</impactIndicator>

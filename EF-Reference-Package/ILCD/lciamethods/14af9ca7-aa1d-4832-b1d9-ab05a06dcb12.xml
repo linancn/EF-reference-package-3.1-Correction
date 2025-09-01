@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>14af9ca7-aa1d-4832-b1d9-ab05a06dcb12</common:UUID>
 <common:name xml:lang="en">Climate change-Land use and land use change</common:name>
+<common:name xml:lang="zh">气候变化-土地利用和土地利用改变</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Climate change</impactCategory>
 <impactIndicator>Radiative forcing as Global Warming Potential (GWP100)</impactIndicator>

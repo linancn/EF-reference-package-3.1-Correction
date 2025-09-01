@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b2ad6890-c78d-11e6-9d9d-cec0c932ce01</common:UUID>      
 <common:name xml:lang="en">Land use</common:name>
+<common:name xml:lang="zh">土地利用</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Land use</impactCategory>
 <impactIndicator>Soil quality index</impactIndicator>
