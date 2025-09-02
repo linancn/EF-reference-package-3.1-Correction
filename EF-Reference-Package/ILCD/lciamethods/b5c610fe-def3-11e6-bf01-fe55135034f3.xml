@@ -5,6 +5,7 @@
 		<dataSetInformation>
 			<common:UUID>b5c610fe-def3-11e6-bf01-fe55135034f3</common:UUID>
 			<common:name xml:lang="en">Photochemical ozone formation - human health</common:name>
+			<common:name xml:lang="zh">光化学烟雾, 人类健康</common:name>
 			<methodology>Environmental Footprint</methodology>
 			<impactCategory>Photochemical ozone creation</impactCategory>
 			<impactIndicator>Tropospheric ozone concentration increase</impactIndicator>

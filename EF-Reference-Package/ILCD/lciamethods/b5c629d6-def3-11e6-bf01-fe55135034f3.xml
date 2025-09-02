@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b5c629d6-def3-11e6-bf01-fe55135034f3</common:UUID>
 <common:name xml:lang="en">Ozone depletion</common:name>
+<common:name xml:lang="zh">臭氧消耗</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Ozone depletion</impactCategory>
 <impactIndicator>Ozone Depletion Potential (ODP) </impactIndicator>

@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>706261af-a357-4cc0-a50a-f3033fcbd556</common:UUID>
 <common:name xml:lang="en">Climate change-Biogenic</common:name>
+<common:name xml:lang="zh">气候变化-生物源</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Climate change</impactCategory>
 <impactIndicator>Radiative forcing as Global Warming Potential (GWP100)</impactIndicator>

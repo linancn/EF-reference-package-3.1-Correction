@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b2ad6494-c78d-11e6-9d9d-cec0c932ce01</common:UUID>
 <common:name xml:lang="en">Resource use, minerals and metals</common:name>
+<common:name xml:lang="zh">资源消耗, 矿物和金属</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Abiotic resource depletion</impactCategory>
 <impactIndicator>Abiotic resource depletion (ADP ultimate reserve)</impactIndicator>

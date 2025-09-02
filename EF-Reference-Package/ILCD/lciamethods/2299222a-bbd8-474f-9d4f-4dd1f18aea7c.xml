@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>2299222a-bbd8-474f-9d4f-4dd1f18aea7c</common:UUID>
 <common:name xml:lang="en">Human toxicity, cancer</common:name>
+<common:name xml:lang="zh">人类毒性, 致癌</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Cancer human health effects</impactCategory>
 <impactIndicator>Comparative Toxic Unit for human (CTUh) </impactIndicator>

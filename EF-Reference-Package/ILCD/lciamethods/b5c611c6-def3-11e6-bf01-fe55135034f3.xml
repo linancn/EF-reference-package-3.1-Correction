@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b5c611c6-def3-11e6-bf01-fe55135034f3</common:UUID>
 <common:name xml:lang="en">Acidification</common:name>
+<common:name xml:lang="zh">酸雨</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Acidification</impactCategory>
 <impactIndicator>Accumulated Exceedance (AE)</impactIndicator>

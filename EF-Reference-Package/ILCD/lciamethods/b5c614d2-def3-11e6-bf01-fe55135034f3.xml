@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>b5c614d2-def3-11e6-bf01-fe55135034f3</common:UUID>
 <common:name xml:lang="en">Eutrophication, terrestrial</common:name>
+<common:name xml:lang="zh">富营养化, 陆地</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Terrestrial Eutrophication</impactCategory>
 <impactIndicator>Accumulated Exceedance (AE) </impactIndicator>

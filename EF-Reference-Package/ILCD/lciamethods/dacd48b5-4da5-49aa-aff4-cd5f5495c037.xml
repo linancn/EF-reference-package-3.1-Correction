@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>dacd48b5-4da5-49aa-aff4-cd5f5495c037</common:UUID>
 <common:name xml:lang="en">Ecotoxicity, freshwater_inorganics</common:name>
+<common:name xml:lang="zh">生态毒性, 淡水_无机物</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Aquatic eco-toxicity</impactCategory>
 <impactIndicator>Comparative Toxic Unit for ecosystems (CTUe) </impactIndicator>

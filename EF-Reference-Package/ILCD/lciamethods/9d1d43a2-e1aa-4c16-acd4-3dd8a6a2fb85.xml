@@ -4,6 +4,7 @@
   <dataSetInformation>
 <common:UUID>9d1d43a2-e1aa-4c16-acd4-3dd8a6a2fb85</common:UUID>
 <common:name xml:lang="en">Human toxicity, non-cancer_inorganics</common:name>
+<common:name xml:lang="zh">人类毒性, 非致癌-无机物</common:name>
 <methodology>Environmental Footprint</methodology>
 <impactCategory>Non-cancer human health effects</impactCategory>
 <impactIndicator>Comparative Toxic Unit for human (CTUh)</impactIndicator>
