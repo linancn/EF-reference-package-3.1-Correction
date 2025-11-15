@@ -49,7 +49,7 @@
   <flowProperties>
     <flowProperty dataSetInternalID="0">
       <referenceToFlowPropertyDataSet refObjectId="93a60a56-a3c8-11da-a746-0800200c9a66" type="flow property data set" uri="../flowproperties/93a60a56-a3c8-11da-a746-0800200c9a66.xml">
-        <common:shortDescription xml:lang="en">Radioactivity</common:shortDescription>
+        <common:shortDescription xml:lang="en">Net calorific value</common:shortDescription>
 </referenceToFlowPropertyDataSet>
       <meanValue>1.0</meanValue>
 </flowProperty>

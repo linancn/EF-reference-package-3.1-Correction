@@ -79,7 +79,7 @@
 </administrativeInformation>
  <characterisationFactors>
   <factor>
-<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6f9-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6f9-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">brown coal(Radioactivity,MJ,Non-renewable energy resources from ground)</common:shortDescription>
+<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6f9-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6f9-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">brown coal(Net calorific value,MJ,Non-renewable energy resources from ground)</common:shortDescription>
 </referenceToFlowDataSet>
 <exchangeDirection>Input</exchangeDirection>
 <meanValue>1.00E+00</meanValue>
@@ -87,7 +87,7 @@
   <generalComment/>
 </factor>
   <factor>
-<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6f8-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6f8-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">crude oil(Radioactivity,MJ,Non-renewable energy resources from ground)</common:shortDescription>
+<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6f8-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6f8-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">crude oil(Net calorific value,MJ,Non-renewable energy resources from ground)</common:shortDescription>
 </referenceToFlowDataSet>
 <exchangeDirection>Input</exchangeDirection>
 <meanValue>1.00E+00</meanValue>
@@ -95,7 +95,7 @@
   <generalComment/>
 </factor>
   <factor>
-<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6fc-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6fc-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">hard coal(Radioactivity,MJ,Non-renewable energy resources from ground)</common:shortDescription>
+<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6fc-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6fc-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">hard coal(Net calorific value,MJ,Non-renewable energy resources from ground)</common:shortDescription>
 </referenceToFlowDataSet>
 <exchangeDirection>Input</exchangeDirection>
 <meanValue>1.00E+00</meanValue>
@@ -103,7 +103,7 @@
   <generalComment/>
 </factor>
   <factor>
-<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6fa-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6fa-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">natural gas(Radioactivity,MJ,Non-renewable energy resources from ground)</common:shortDescription>
+<referenceToFlowDataSet refObjectId="fe0acd60-3ddc-11dd-a6fa-0050c2490048" type="flow data set" uri="../flows/fe0acd60-3ddc-11dd-a6fa-0050c2490048.xml" version="04.00.004"> <common:shortDescription xml:lang="en">natural gas(Net calorific value,MJ,Non-renewable energy resources from ground)</common:shortDescription>
 </referenceToFlowDataSet>
 <exchangeDirection>Input</exchangeDirection>
 <meanValue>1.00E+00</meanValue>
@@ -111,7 +111,7 @@
   <generalComment/>
 </factor>
   <factor>
-<referenceToFlowDataSet refObjectId="e2fba107-6555-11dd-ad8b-0800200c9a66" type="flow data set" uri="../flows/e2fba107-6555-11dd-ad8b-0800200c9a66.xml" version="04.00.004"> <common:shortDescription xml:lang="en">peat(Radioactivity,MJ,Non-renewable energy resources from ground)</common:shortDescription>
+<referenceToFlowDataSet refObjectId="e2fba107-6555-11dd-ad8b-0800200c9a66" type="flow data set" uri="../flows/e2fba107-6555-11dd-ad8b-0800200c9a66.xml" version="04.00.004"> <common:shortDescription xml:lang="en">peat(Net calorific value,MJ,Non-renewable energy resources from ground)</common:shortDescription>
 </referenceToFlowDataSet>
 <exchangeDirection>Input</exchangeDirection>
 <meanValue>1.00E+00</meanValue>
@@ -119,7 +119,7 @@
   <generalComment/>
 </factor>
   <factor>
-<referenceToFlowDataSet refObjectId="3e4d2966-6556-11dd-ad8b-0800200c9a66" type="flow data set" uri="../flows/3e4d2966-6556-11dd-ad8b-0800200c9a66.xml" version="03.00.004"> <common:shortDescription xml:lang="en">uranium(Radioactivity,MJ,Non-renewable energy resources from ground)</common:shortDescription>
+<referenceToFlowDataSet refObjectId="3e4d2966-6556-11dd-ad8b-0800200c9a66" type="flow data set" uri="../flows/3e4d2966-6556-11dd-ad8b-0800200c9a66.xml" version="03.00.004"> <common:shortDescription xml:lang="en">uranium(Net calorific value,MJ,Non-renewable energy resources from ground)</common:shortDescription>
 </referenceToFlowDataSet>
 <exchangeDirection>Input</exchangeDirection>
 <meanValue>1.00E+00</meanValue>
